@@ -1,0 +1,1268 @@
+fileFormatVersion: 2
+guid: e323545543dc24ec98572f4f986c30f6
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8589834695538881610
+    second: old sarasprites summary_0
+  - first:
+      213: 9027296220142696095
+    second: old sarasprites summary_1
+  - first:
+      213: -2268367507520464393
+    second: old sarasprites summary_2
+  - first:
+      213: 3475830124487330576
+    second: old sarasprites summary_3
+  - first:
+      213: -8494556169264526593
+    second: old sarasprites summary_4
+  - first:
+      213: -1344887911337423039
+    second: old sarasprites summary_5
+  - first:
+      213: -4795645287262351966
+    second: old sarasprites summary_6
+  - first:
+      213: -3080735720127316769
+    second: old sarasprites summary_7
+  - first:
+      213: -1635743512262059284
+    second: old sarasprites summary_8
+  - first:
+      213: -4638527198739143975
+    second: old sarasprites summary_9
+  - first:
+      213: -3319786011399679526
+    second: old sarasprites summary_10
+  - first:
+      213: 502579540921696202
+    second: old sarasprites summary_11
+  - first:
+      213: -2211611095021912105
+    second: old sarasprites summary_12
+  - first:
+      213: -7629969405204494041
+    second: old sarasprites summary_13
+  - first:
+      213: -8786418050320613610
+    second: old sarasprites summary_14
+  - first:
+      213: 3528183318861570178
+    second: old sarasprites summary_15
+  - first:
+      213: 8321385895483831582
+    second: old sarasprites summary_16
+  - first:
+      213: -6254736996642857833
+    second: old sarasprites summary_17
+  - first:
+      213: -6194106694157448659
+    second: old sarasprites summary_18
+  - first:
+      213: -2175215484422502923
+    second: old sarasprites summary_19
+  - first:
+      213: -5750048403954191414
+    second: old sarasprites summary_20
+  - first:
+      213: -6691900870183571398
+    second: old sarasprites summary_21
+  - first:
+      213: 2585965763963760551
+    second: old sarasprites summary_22
+  - first:
+      213: -732023485512554543
+    second: old sarasprites summary_23
+  - first:
+      213: 4469546214429770061
+    second: old sarasprites summary_24
+  - first:
+      213: 7461312637106284889
+    second: old sarasprites summary_25
+  - first:
+      213: -2534031453370362695
+    second: old sarasprites summary_26
+  - first:
+      213: 4688569256373720228
+    second: old sarasprites summary_27
+  - first:
+      213: 2342305756485079842
+    second: old sarasprites summary_28
+  - first:
+      213: 8528423489971570952
+    second: old sarasprites summary_29
+  - first:
+      213: -2576919185250361414
+    second: old sarasprites summary_30
+  - first:
+      213: -568930824780481320
+    second: old sarasprites summary_31
+  - first:
+      213: -7442658777454015874
+    second: old sarasprites summary_32
+  - first:
+      213: -8920576854761008675
+    second: old sarasprites summary_33
+  - first:
+      213: -2438338418076982721
+    second: old sarasprites summary_34
+  - first:
+      213: -2760502119336198269
+    second: old sarasprites summary_35
+  - first:
+      213: -6247692881792521579
+    second: old sarasprites summary_36
+  - first:
+      213: 8576037452876778028
+    second: old sarasprites summary_37
+  - first:
+      213: -6807788131221523366
+    second: old sarasprites summary_38
+  - first:
+      213: 8716624935233139135
+    second: old sarasprites summary_39
+  - first:
+      213: 4046596834287439785
+    second: old sarasprites summary_40
+  - first:
+      213: -8750471276908492602
+    second: old sarasprites summary_41
+  - first:
+      213: -6734904178833208079
+    second: old sarasprites summary_42
+  - first:
+      213: -4124867153530407357
+    second: old sarasprites summary_43
+  - first:
+      213: -1708538723869117614
+    second: old sarasprites summary_44
+  - first:
+      213: 6875840066975222890
+    second: old sarasprites summary_45
+  - first:
+      213: 517658365553576651
+    second: old sarasprites summary_46
+  - first:
+      213: 6815606351031046475
+    second: old sarasprites summary_47
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: old sarasprites summary_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 71
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6bb4415fad6cac880800000000000000
+      internalID: -8589834695538881610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: old sarasprites summary_1
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 71
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f96f4d36516674d70800000000000000
+      internalID: 9027296220142696095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: old sarasprites summary_2
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 71
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f9543e25c32580e0800000000000000
+      internalID: -2268367507520464393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: old sarasprites summary_3
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 71
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01b4bad1511ac3030800000000000000
+      internalID: 3475830124487330576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: old sarasprites summary_4
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 71
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffa826e8b264d1a80800000000000000
+      internalID: -8494556169264526593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: old sarasprites summary_5
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 71
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14f0406f19ff55de0800000000000000
+      internalID: -1344887911337423039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: old sarasprites summary_6
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 71
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ad83f70502727db0800000000000000
+      internalID: -4795645287262351966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: old sarasprites summary_7
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 71
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fdc34fa5f270f35d0800000000000000
+      internalID: -3080735720127316769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: old sarasprites summary_8
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 71
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cea58ff21fbac49e0800000000000000
+      internalID: -1635743512262059284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: old sarasprites summary_9
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 71
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d26a26b614a0afb0800000000000000
+      internalID: -4638527198739143975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: old sarasprites summary_10
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 71
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad1163c2630cde1d0800000000000000
+      internalID: -3319786011399679526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: old sarasprites summary_11
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 71
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: acf34000e6589f600800000000000000
+      internalID: 502579540921696202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: old sarasprites summary_12
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 71
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7dff7eb3d67ce41e0800000000000000
+      internalID: -2211611095021912105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: old sarasprites summary_13
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 71
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72900b35047ec1690800000000000000
+      internalID: -7629969405204494041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: old sarasprites summary_14
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 71
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61f3f8ee55f501680800000000000000
+      internalID: -8786418050320613610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: old sarasprites summary_15
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 71
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 280e33f0900a6f030800000000000000
+      internalID: 3528183318861570178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: old sarasprites summary_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 39
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e15724322608b7370800000000000000
+      internalID: 8321385895483831582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: old sarasprites summary_17
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 39
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79cdb9f27d5b239a0800000000000000
+      internalID: -6254736996642857833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: old sarasprites summary_18
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 39
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2a40e987cc1a0aa0800000000000000
+      internalID: -6194106694157448659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: old sarasprites summary_19
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 39
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f5411daa0510d1e0800000000000000
+      internalID: -2175215484422502923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: old sarasprites summary_20
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 39
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac332011179b330b0800000000000000
+      internalID: -5750048403954191414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: old sarasprites summary_21
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 39
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a30b4902d979123a0800000000000000
+      internalID: -6691900870183571398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: old sarasprites summary_22
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 39
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7afa16a492233e320800000000000000
+      internalID: 2585965763963760551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: old sarasprites summary_23
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 39
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d7e7c2b48457d5f0800000000000000
+      internalID: -732023485512554543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: old sarasprites summary_24
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 39
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d414742f994070e30800000000000000
+      internalID: 4469546214429770061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: old sarasprites summary_25
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 39
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9596adccf48eb8760800000000000000
+      internalID: 7461312637106284889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: old sarasprites summary_26
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 39
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b4513ca1df45dcd0800000000000000
+      internalID: -2534031453370362695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: old sarasprites summary_27
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 39
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a419f6c5e4211140800000000000000
+      internalID: 4688569256373720228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: old sarasprites summary_28
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 39
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22355aaecaa818020800000000000000
+      internalID: 2342305756485079842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: old sarasprites summary_29
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 39
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8094ad58afb0b5670800000000000000
+      internalID: 8528423489971570952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: old sarasprites summary_30
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 39
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abf534477a1fc3cd0800000000000000
+      internalID: -2576919185250361414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: old sarasprites summary_31
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 39
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8dc703fdd60ca18f0800000000000000
+      internalID: -568930824780481320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: old sarasprites summary_32
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 7
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7a0969564d56b890800000000000000
+      internalID: -7442658777454015874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: old sarasprites summary_33
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 7
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd116642d9eb33480800000000000000
+      internalID: -8920576854761008675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: old sarasprites summary_34
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 7
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f32655ca028492ed0800000000000000
+      internalID: -2438338418076982721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: old sarasprites summary_35
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 7
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38fb04fb2f9b0b9d0800000000000000
+      internalID: -2760502119336198269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: old sarasprites summary_36
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 7
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59a250bfc6cbb49a0800000000000000
+      internalID: -6247692881792521579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: old sarasprites summary_37
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 7
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2a8a2720a4340770800000000000000
+      internalID: 8576037452876778028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: old sarasprites summary_38
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 7
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a54bb6c83c0e581a0800000000000000
+      internalID: -6807788131221523366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: old sarasprites summary_39
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 7
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb132e8223ca7f870800000000000000
+      internalID: 8716624935233139135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: old sarasprites summary_40
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 7
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9af4ce88166682830800000000000000
+      internalID: 4046596834287439785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: old sarasprites summary_41
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 7
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c84c925cb4109680800000000000000
+      internalID: -8750471276908492602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: old sarasprites summary_42
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 7
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1fc4a581550d882a0800000000000000
+      internalID: -6734904178833208079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: old sarasprites summary_43
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 7
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 346b428ad2781c6c0800000000000000
+      internalID: -4124867153530407357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: old sarasprites summary_44
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 7
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25338c6351d0a48e0800000000000000
+      internalID: -1708538723869117614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: old sarasprites summary_45
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 7
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6cc4747c14eb6f50800000000000000
+      internalID: 6875840066975222890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: old sarasprites summary_46
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 7
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bca84d17a871f2700800000000000000
+      internalID: 517658365553576651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: old sarasprites summary_47
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 7
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b411a1a9dd5e59e50800000000000000
+      internalID: 6815606351031046475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
