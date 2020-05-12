@@ -1,10 +1,13 @@
 ![Dungeorus Logo](/Dokumentation/02-Pflichtenheft/Abbildungen/Dungeorus Logo.png)
 
-## Über uns
+## Über Dungeorus
 Dungeorus (aus *Dungeon* und *Virus*) ist ein 2D-Action Game im Pixel-Art Stil, 
 bei dem der Benutzer einen aus mehreren einzigartigen Charakteren wählt, Items 
 sammelt um gesund zu bleiben und Fähigkeiten freizuschalten, Viren bekämpft und 
 einen möglichst hohen Highscore erzielt.
+
+Die Entwicklern sind Adib Ghassani Waluya, Michael Reno und Minh Hoang Do und 
+werden durch Herrn Prof. Dr.-Ing. Mohammad Abuosba betreut.
 
 ## Warum Dungeorus
 Durch die derzeitige weltweite Pandemie haben Leute vor allem Kinder plötzlich 
