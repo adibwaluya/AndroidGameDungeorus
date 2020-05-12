@@ -1,4 +1,5 @@
-# Dungeorus
+![Dungeorus Logo](/Dokumentation/02-Pflichtenheft/Abbildungen/Dungeorus Logo.png)
+
 ## Über uns
 Dungeorus (aus *Dungeon* und *Virus*) ist ein 2D-Action Game im Pixel-Art Stil, 
 bei dem der Benutzer einen aus mehreren einzigartigen Charakteren wählt, Items 
