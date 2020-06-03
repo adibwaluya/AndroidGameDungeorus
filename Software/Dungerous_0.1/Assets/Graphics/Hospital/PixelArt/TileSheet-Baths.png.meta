@@ -1,0 +1,968 @@
+fileFormatVersion: 2
+guid: b6dec3b3dc2fe4dfdaa7e5626749536b
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4807987657821661763
+    second: TileSheet-Baths_0
+  - first:
+      213: 6853364687289053542
+    second: TileSheet-Baths_1
+  - first:
+      213: -1483271210394550888
+    second: TileSheet-Baths_2
+  - first:
+      213: -6904195294623468060
+    second: TileSheet-Baths_3
+  - first:
+      213: -15029783618217561
+    second: TileSheet-Baths_4
+  - first:
+      213: 2247239498659315553
+    second: TileSheet-Baths_5
+  - first:
+      213: -3015449029830576563
+    second: TileSheet-Baths_6
+  - first:
+      213: -2706469393096918455
+    second: TileSheet-Baths_7
+  - first:
+      213: 5861819109635275086
+    second: TileSheet-Baths_8
+  - first:
+      213: 4428339057864561037
+    second: TileSheet-Baths_9
+  - first:
+      213: -2482229485178093872
+    second: TileSheet-Baths_10
+  - first:
+      213: -2055033352299390219
+    second: TileSheet-Baths_11
+  - first:
+      213: -7450919344747019750
+    second: TileSheet-Baths_12
+  - first:
+      213: -1792821603199790929
+    second: TileSheet-Baths_13
+  - first:
+      213: 7695740845017603083
+    second: TileSheet-Baths_14
+  - first:
+      213: 7452653300562036614
+    second: TileSheet-Baths_15
+  - first:
+      213: -1245796941482749488
+    second: TileSheet-Baths_16
+  - first:
+      213: 9207959336274289209
+    second: TileSheet-Baths_17
+  - first:
+      213: 397135912253936722
+    second: TileSheet-Baths_18
+  - first:
+      213: -5587607937035350928
+    second: TileSheet-Baths_19
+  - first:
+      213: -2998086709415927321
+    second: TileSheet-Baths_20
+  - first:
+      213: -4049742536993694437
+    second: TileSheet-Baths_21
+  - first:
+      213: -9141781605553583046
+    second: TileSheet-Baths_22
+  - first:
+      213: -4735927225236729332
+    second: TileSheet-Baths_23
+  - first:
+      213: -9162745896378671236
+    second: TileSheet-Baths_24
+  - first:
+      213: 3583900618894725746
+    second: TileSheet-Baths_25
+  - first:
+      213: 2565120197373276223
+    second: TileSheet-Baths_26
+  - first:
+      213: -4485834301729627003
+    second: TileSheet-Baths_27
+  - first:
+      213: -6004809525880303237
+    second: TileSheet-Baths_28
+  - first:
+      213: 330284007810885962
+    second: TileSheet-Baths_29
+  - first:
+      213: 4744851104451073884
+    second: TileSheet-Baths_30
+  - first:
+      213: 5332621420859679125
+    second: TileSheet-Baths_31
+  - first:
+      213: -3504250949808280479
+    second: TileSheet-Baths_32
+  - first:
+      213: 3670682703488468802
+    second: TileSheet-Baths_33
+  - first:
+      213: 52696804727077190
+    second: TileSheet-Baths_34
+  - first:
+      213: -1516318947366089663
+    second: TileSheet-Baths_35
+  - first:
+      213: 6008815924041165578
+    second: TileSheet-Baths_36
+  - first:
+      213: 1428525046417031563
+    second: TileSheet-Baths_37
+  - first:
+      213: -5318396393926249320
+    second: TileSheet-Baths_38
+  - first:
+      213: 458946955294936848
+    second: TileSheet-Baths_39
+  - first:
+      213: -4970939233675398785
+    second: TileSheet-Baths_40
+  - first:
+      213: 4124975752366272886
+    second: TileSheet-Baths_41
+  - first:
+      213: 13263218872863727
+    second: TileSheet-Baths_42
+  - first:
+      213: 7538366103912087519
+    second: TileSheet-Baths_43
+  - first:
+      213: -4238916813484512310
+    second: TileSheet-Baths_44
+  - first:
+      213: -5855717631767744050
+    second: TileSheet-Baths_45
+  - first:
+      213: -3308853066890191020
+    second: TileSheet-Baths_46
+  - first:
+      213: 6266907860968774274
+    second: TileSheet-Baths_47
+  - first:
+      213: -8574738915271057523
+    second: TileSheet-Baths_48
+  - first:
+      213: -5077479547449159967
+    second: TileSheet-Baths_49
+  - first:
+      213: -6715630026015526204
+    second: TileSheet-Baths_50
+  - first:
+      213: 8511274101483344365
+    second: TileSheet-Baths_51
+  - first:
+      213: 8301734915232259105
+    second: TileSheet-Baths_52
+  - first:
+      213: -3337876732819929060
+    second: TileSheet-Baths_53
+  - first:
+      213: -7114462372576866331
+    second: TileSheet-Baths_54
+  - first:
+      213: -8916771654698313928
+    second: TileSheet-Baths_55
+  - first:
+      213: 667993712778276955
+    second: TileSheet-Baths_56
+  - first:
+      213: 2915617984617824
+    second: TileSheet-Baths_57
+  - first:
+      213: 8705293580186329031
+    second: TileSheet-Baths_58
+  - first:
+      213: 8936295195963166208
+    second: TileSheet-Baths_59
+  - first:
+      213: 5222747796761751803
+    second: TileSheet-Baths_60
+  - first:
+      213: 4225241868327773991
+    second: TileSheet-Baths_61
+  - first:
+      213: 569091204155410676
+    second: TileSheet-Baths_62
+  - first:
+      213: -7639169776161997729
+    second: TileSheet-Baths_63
+  - first:
+      213: -3450326378233621122
+    second: TileSheet-Baths_64
+  - first:
+      213: -7620309105888833985
+    second: TileSheet-Baths_65
+  - first:
+      213: -4950633308221414930
+    second: TileSheet-Baths_66
+  - first:
+      213: 4263511027823657335
+    second: TileSheet-Baths_67
+  - first:
+      213: -9171855539569457250
+    second: TileSheet-Baths_68
+  - first:
+      213: 914360634800644083
+    second: TileSheet-Baths_69
+  - first:
+      213: -3219230951789680943
+    second: TileSheet-Baths_70
+  - first:
+      213: 4590881635901264576
+    second: TileSheet-Baths_71
+  - first:
+      213: -989562645996373634
+    second: TileSheet-Baths_72
+  - first:
+      213: -890865683676311089
+    second: TileSheet-Baths_73
+  - first:
+      213: -3224712673382953372
+    second: TileSheet-Baths_74
+  - first:
+      213: -5401472530940987823
+    second: TileSheet-Baths_75
+  - first:
+      213: 3564036290042955695
+    second: TileSheet-Baths_76
+  - first:
+      213: 4177813138922617484
+    second: TileSheet-Baths_77
+  - first:
+      213: 8225952316878051293
+    second: TileSheet-Baths_78
+  - first:
+      213: 4795826613766049827
+    second: TileSheet-Baths_79
+  - first:
+      213: 1666168817841053391
+    second: TileSheet-Baths_80
+  - first:
+      213: -6458074974774798232
+    second: TileSheet-Baths_81
+  - first:
+      213: 3290656616407525563
+    second: TileSheet-Baths_82
+  - first:
+      213: 1289803460231790336
+    second: TileSheet-Baths_83
+  - first:
+      213: 5372736411649112227
+    second: TileSheet-Baths_84
+  - first:
+      213: -2319698562013637134
+    second: TileSheet-Baths_85
+  - first:
+      213: 4942052850567262295
+    second: TileSheet-Baths_86
+  - first:
+      213: -4023409246990138220
+    second: TileSheet-Baths_87
+  - first:
+      213: 4187970697537699330
+    second: TileSheet-Baths_88
+  - first:
+      213: 1081426110675815895
+    second: TileSheet-Baths_89
+  - first:
+      213: -7210679803381115396
+    second: TileSheet-Baths_90
+  - first:
+      213: 2051894274661617203
+    second: TileSheet-Baths_91
+  - first:
+      213: 8003971138436613850
+    second: TileSheet-Baths_92
+  - first:
+      213: 8071920968432513469
+    second: TileSheet-Baths_93
+  - first:
+      213: -1177892769467475927
+    second: TileSheet-Baths_94
+  - first:
+      213: 7207969201921948767
+    second: TileSheet-Baths_95
+  - first:
+      213: -2589742203899147862
+    second: TileSheet-Baths_96
+  - first:
+      213: 1134941291232812876
+    second: TileSheet-Baths_97
+  - first:
+      213: 3076899171368668070
+    second: TileSheet-Baths_98
+  - first:
+      213: -5791492883199204651
+    second: TileSheet-Baths_99
+  - first:
+      213: -2559949880597565252
+    second: TileSheet-Baths_100
+  - first:
+      213: 7504536672487468592
+    second: TileSheet-Baths_101
+  - first:
+      213: -5231781092504678769
+    second: TileSheet-Baths_102
+  - first:
+      213: 5259249880444572507
+    second: TileSheet-Baths_103
+  - first:
+      213: -2141790027308305395
+    second: TileSheet-Baths_104
+  - first:
+      213: -4096292240757650893
+    second: TileSheet-Baths_105
+  - first:
+      213: 2777789190274002871
+    second: TileSheet-Baths_106
+  - first:
+      213: 6379827146043928231
+    second: TileSheet-Baths_107
+  - first:
+      213: -6308409628116418778
+    second: TileSheet-Baths_108
+  - first:
+      213: 8290596230829892272
+    second: TileSheet-Baths_109
+  - first:
+      213: -4939649541305153531
+    second: TileSheet-Baths_110
+  - first:
+      213: -7825554957582920508
+    second: TileSheet-Baths_111
+  - first:
+      213: -5534859523700061084
+    second: TileSheet-Baths_112
+  - first:
+      213: -8586493646860023705
+    second: TileSheet-Baths_113
+  - first:
+      213: 6449355129271460047
+    second: TileSheet-Baths_114
+  - first:
+      213: -7009030259912032273
+    second: TileSheet-Baths_115
+  - first:
+      213: 607027357938191346
+    second: TileSheet-Baths_116
+  - first:
+      213: -8441293610648057816
+    second: TileSheet-Baths_117
+  - first:
+      213: 3087225669306779239
+    second: TileSheet-Baths_118
+  - first:
+      213: 5824258676762089418
+    second: TileSheet-Baths_119
+  - first:
+      213: -8706634393922016444
+    second: TileSheet-Baths_120
+  - first:
+      213: 5728446107158660704
+    second: TileSheet-Baths_121
+  - first:
+      213: 6709726712293507969
+    second: TileSheet-Baths_122
+  - first:
+      213: -8848054151824939312
+    second: TileSheet-Baths_123
+  - first:
+      213: 90902556208165764
+    second: TileSheet-Baths_124
+  - first:
+      213: -7753462665330267354
+    second: TileSheet-Baths_125
+  - first:
+      213: -2819365891201366354
+    second: TileSheet-Baths_126
+  - first:
+      213: 4793895326670376370
+    second: TileSheet-Baths_127
+  - first:
+      213: 2322352550454988743
+    second: TileSheet-Baths_128
+  - first:
+      213: -4636705467857939021
+    second: TileSheet-Baths_129
+  - first:
+      213: 8049135235451241060
+    second: TileSheet-Baths_130
+  - first:
+      213: 2713286641244108614
+    second: TileSheet-Baths_131
+  - first:
+      213: 5395478322769288732
+    second: TileSheet-Baths_132
+  - first:
+      213: -2379903651791984142
+    second: TileSheet-Baths_133
+  - first:
+      213: 619794215540969453
+    second: TileSheet-Baths_134
+  - first:
+      213: -8825935037347687514
+    second: TileSheet-Baths_135
+  - first:
+      213: 975831222805009564
+    second: TileSheet-Baths_136
+  - first:
+      213: -5208403751077603692
+    second: TileSheet-Baths_137
+  - first:
+      213: 2600617269688329065
+    second: TileSheet-Baths_138
+  - first:
+      213: 2004343412537279683
+    second: TileSheet-Baths_139
+  - first:
+      213: -6827649915573581897
+    second: TileSheet-Baths_140
+  - first:
+      213: -765881801454708805
+    second: TileSheet-Baths_141
+  - first:
+      213: 2112294413949283842
+    second: TileSheet-Baths_142
+  - first:
+      213: -4311333763572031942
+    second: TileSheet-Baths_143
+  - first:
+      213: -7944155489429052038
+    second: TileSheet-Baths_144
+  - first:
+      213: 1271415766250556320
+    second: TileSheet-Baths_145
+  - first:
+      213: -8409270225563478448
+    second: TileSheet-Baths_146
+  - first:
+      213: -7953798305917242620
+    second: TileSheet-Baths_147
+  - first:
+      213: 4379932708830366661
+    second: TileSheet-Baths_148
+  - first:
+      213: 7530602496217921596
+    second: TileSheet-Baths_149
+  - first:
+      213: -1556794215121239300
+    second: TileSheet-Baths_150
+  - first:
+      213: -6706821476707555768
+    second: TileSheet-Baths_151
+  - first:
+      213: 4981593467735388474
+    second: TileSheet-Baths_152
+  - first:
+      213: -871748759431786883
+    second: TileSheet-Baths_153
+  - first:
+      213: -4415347267446817492
+    second: TileSheet-Baths_154
+  - first:
+      213: -27856417228062094
+    second: TileSheet-Baths_155
+  - first:
+      213: 4482891710965110250
+    second: TileSheet-Baths_156
+  - first:
+      213: 4616263659340302856
+    second: TileSheet-Baths_157
+  - first:
+      213: 6246502171618606206
+    second: TileSheet-Baths_158
+  - first:
+      213: -4773297200526874559
+    second: TileSheet-Baths_159
+  - first:
+      213: -6047569816361174787
+    second: TileSheet-Baths_0
+  - first:
+      213: -1061992469035112717
+    second: TileSheet-Baths_1
+  - first:
+      213: 794838216549930823
+    second: TileSheet-Baths_2
+  - first:
+      213: -6534300359123763126
+    second: TileSheet-Baths_3
+  - first:
+      213: 938555223294284867
+    second: TileSheet-Baths_4
+  - first:
+      213: 7115177953993734332
+    second: TileSheet-Baths_5
+  - first:
+      213: 2174008000203171837
+    second: TileSheet-Baths_6
+  - first:
+      213: 3626432789796056220
+    second: TileSheet-Baths_7
+  - first:
+      213: -7874184962115769791
+    second: TileSheet-Baths_8
+  - first:
+      213: -3271242897507315236
+    second: TileSheet-Baths_9
+  - first:
+      213: -3688464810654060085
+    second: TileSheet-Baths_10
+  - first:
+      213: 8621024483373603727
+    second: TileSheet-Baths_11
+  - first:
+      213: -2425775862215471634
+    second: TileSheet-Baths_12
+  - first:
+      213: 2568216562583628522
+    second: TileSheet-Baths_13
+  - first:
+      213: -4778396000725778390
+    second: TileSheet-Baths_14
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 25
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: 4
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 1
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: TileSheet-Baths_0
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 145
+        width: 42
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df8fa6d1b47b21ca0800000000000000
+      internalID: -6047569816361174787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileSheet-Baths_1
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 124
+        width: 42
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f6a501e97b0341f0800000000000000
+      internalID: -1061992469035112717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileSheet-Baths_2
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 124
+        width: 43
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7471d5f8525d70b00800000000000000
+      internalID: 794838216549930823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileSheet-Baths_3
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 124
+        width: 43
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4088be81708155a0800000000000000
+      internalID: -6534300359123763126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileSheet-Baths_4
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 105
+        width: 42
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3441b8eb00b660d00800000000000000
+      internalID: 938555223294284867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileSheet-Baths_5
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 73
+        width: 52
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb8bc7db6a03eb260800000000000000
+      internalID: 7115177953993734332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileSheet-Baths_6
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 65
+        width: 52
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df7a7fef1c0ab2e10800000000000000
+      internalID: 2174008000203171837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileSheet-Baths_7
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 65
+        width: 43
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9c6f9d986da35230800000000000000
+      internalID: 3626432789796056220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileSheet-Baths_8
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 65
+        width: 43
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14aed550f7649b290800000000000000
+      internalID: -7874184962115769791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileSheet-Baths_9
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 25
+        width: 43
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd19e00aae53a92d0800000000000000
+      internalID: -3271242897507315236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileSheet-Baths_10
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 13
+        width: 29
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc1bf6a0cc0ffccc0800000000000000
+      internalID: -3688464810654060085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileSheet-Baths_11
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 13
+        width: 29
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8bdd6b671804a770800000000000000
+      internalID: 8621024483373603727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileSheet-Baths_12
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 5
+        width: 29
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eed0ee3a4b9e55ed0800000000000000
+      internalID: -2425775862215471634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileSheet-Baths_13
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 5
+        width: 29
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aea621f4b5324a320800000000000000
+      internalID: 2568216562583628522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileSheet-Baths_14
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 12
+        width: 52
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a20c794872abfadb0800000000000000
+      internalID: -4778396000725778390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

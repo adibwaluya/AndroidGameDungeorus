@@ -1,0 +1,3773 @@
+fileFormatVersion: 2
+guid: 2df551851ab384e79a555eb38e427f5e
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2500408446114165248
+    second: TileSheet-Bathroom_0
+  - first:
+      213: -3424261632949719452
+    second: TileSheet-Bathroom_1
+  - first:
+      213: -9175105992552247393
+    second: TileSheet-Bathroom_2
+  - first:
+      213: 1555943393129272575
+    second: TileSheet-Bathroom_3
+  - first:
+      213: -7243070420647262673
+    second: TileSheet-Bathroom_4
+  - first:
+      213: 2086167908707101780
+    second: TileSheet-Bathroom_5
+  - first:
+      213: 3235357248213663286
+    second: TileSheet-Bathroom_6
+  - first:
+      213: -8980030458880405309
+    second: TileSheet-Bathroom_7
+  - first:
+      213: -8167577516145847767
+    second: TileSheet-Bathroom_8
+  - first:
+      213: -2218290294937758428
+    second: TileSheet-Bathroom_9
+  - first:
+      213: -1169208252088712122
+    second: TileSheet-Bathroom_10
+  - first:
+      213: 8797311589551666223
+    second: TileSheet-Bathroom_11
+  - first:
+      213: 806506545123076851
+    second: TileSheet-Bathroom_12
+  - first:
+      213: -8026627924202596630
+    second: TileSheet-Bathroom_13
+  - first:
+      213: 2959158460087943743
+    second: TileSheet-Bathroom_14
+  - first:
+      213: 497136988580442144
+    second: TileSheet-Bathroom_15
+  - first:
+      213: 3748555192129600974
+    second: TileSheet-Bathroom_16
+  - first:
+      213: 4774995839608404138
+    second: TileSheet-Bathroom_17
+  - first:
+      213: -5524897800623567783
+    second: TileSheet-Bathroom_18
+  - first:
+      213: -6612703724573756169
+    second: TileSheet-Bathroom_19
+  - first:
+      213: 1690545801906662756
+    second: TileSheet-Bathroom_20
+  - first:
+      213: -4536146965270013155
+    second: TileSheet-Bathroom_21
+  - first:
+      213: -8962770771667876439
+    second: TileSheet-Bathroom_22
+  - first:
+      213: -5076388887164614100
+    second: TileSheet-Bathroom_23
+  - first:
+      213: 237503427838202046
+    second: TileSheet-Bathroom_24
+  - first:
+      213: 1847234760015943143
+    second: TileSheet-Bathroom_25
+  - first:
+      213: 5625481532996984343
+    second: TileSheet-Bathroom_26
+  - first:
+      213: 916606231766102301
+    second: TileSheet-Bathroom_27
+  - first:
+      213: -6744428171649523280
+    second: TileSheet-Bathroom_28
+  - first:
+      213: -2411431046007396904
+    second: TileSheet-Bathroom_29
+  - first:
+      213: 3910086791749286862
+    second: TileSheet-Bathroom_30
+  - first:
+      213: 7296485608024854250
+    second: TileSheet-Bathroom_31
+  - first:
+      213: -4636272738128481415
+    second: TileSheet-Bathroom_32
+  - first:
+      213: 3450905551214797662
+    second: TileSheet-Bathroom_33
+  - first:
+      213: 2978994031752457880
+    second: TileSheet-Bathroom_34
+  - first:
+      213: -7696640377567468697
+    second: TileSheet-Bathroom_35
+  - first:
+      213: -3142448125992836373
+    second: TileSheet-Bathroom_36
+  - first:
+      213: 6852057091865251902
+    second: TileSheet-Bathroom_37
+  - first:
+      213: 1375713480626763871
+    second: TileSheet-Bathroom_38
+  - first:
+      213: -6416540157635851355
+    second: TileSheet-Bathroom_39
+  - first:
+      213: 4911073766160135810
+    second: TileSheet-Bathroom_40
+  - first:
+      213: 2680857883394943342
+    second: TileSheet-Bathroom_41
+  - first:
+      213: 774385794932442643
+    second: TileSheet-Bathroom_42
+  - first:
+      213: -3595866683295562975
+    second: TileSheet-Bathroom_43
+  - first:
+      213: 8388095575255832172
+    second: TileSheet-Bathroom_44
+  - first:
+      213: 6540781778074573862
+    second: TileSheet-Bathroom_45
+  - first:
+      213: 8659197424709059751
+    second: TileSheet-Bathroom_46
+  - first:
+      213: 3431390608709380455
+    second: TileSheet-Bathroom_47
+  - first:
+      213: -1234154714660843904
+    second: TileSheet-Bathroom_48
+  - first:
+      213: 8350107582873281587
+    second: TileSheet-Bathroom_49
+  - first:
+      213: 3630584985229359328
+    second: TileSheet-Bathroom_50
+  - first:
+      213: -1209074111974383886
+    second: TileSheet-Bathroom_51
+  - first:
+      213: -3165014500693441634
+    second: TileSheet-Bathroom_52
+  - first:
+      213: 690736152411425839
+    second: TileSheet-Bathroom_53
+  - first:
+      213: -8430267956406631817
+    second: TileSheet-Bathroom_54
+  - first:
+      213: 424800542397979967
+    second: TileSheet-Bathroom_55
+  - first:
+      213: -4011606856384139888
+    second: TileSheet-Bathroom_56
+  - first:
+      213: 5816188193727998130
+    second: TileSheet-Bathroom_57
+  - first:
+      213: 8857505085086031819
+    second: TileSheet-Bathroom_58
+  - first:
+      213: 3276340769048929417
+    second: TileSheet-Bathroom_59
+  - first:
+      213: 4850374235373723001
+    second: TileSheet-Bathroom_60
+  - first:
+      213: 333955495939719183
+    second: TileSheet-Bathroom_61
+  - first:
+      213: 3026345704211095475
+    second: TileSheet-Bathroom_62
+  - first:
+      213: 1305853782739828835
+    second: TileSheet-Bathroom_63
+  - first:
+      213: -8658893694939263848
+    second: TileSheet-Bathroom_64
+  - first:
+      213: 7160045064192998266
+    second: TileSheet-Bathroom_65
+  - first:
+      213: -4589201462026160333
+    second: TileSheet-Bathroom_66
+  - first:
+      213: -3991783223318317933
+    second: TileSheet-Bathroom_67
+  - first:
+      213: -8324248410423517971
+    second: TileSheet-Bathroom_68
+  - first:
+      213: -1212114054222192596
+    second: TileSheet-Bathroom_69
+  - first:
+      213: 7744938867281056567
+    second: TileSheet-Bathroom_70
+  - first:
+      213: -7422759869864392950
+    second: TileSheet-Bathroom_71
+  - first:
+      213: -1402935134502211354
+    second: TileSheet-Bathroom_72
+  - first:
+      213: 2674036208404099986
+    second: TileSheet-Bathroom_73
+  - first:
+      213: -1072603950308339775
+    second: TileSheet-Bathroom_74
+  - first:
+      213: -3054163339670834771
+    second: TileSheet-Bathroom_75
+  - first:
+      213: 3092370323207231879
+    second: TileSheet-Bathroom_76
+  - first:
+      213: 4145903792224166679
+    second: TileSheet-Bathroom_77
+  - first:
+      213: 5379414411010138622
+    second: TileSheet-Bathroom_78
+  - first:
+      213: 4413325363993904205
+    second: TileSheet-Bathroom_79
+  - first:
+      213: -3610882428322876385
+    second: TileSheet-Bathroom_80
+  - first:
+      213: 6542521555405265842
+    second: TileSheet-Bathroom_81
+  - first:
+      213: -8750053485782691737
+    second: TileSheet-Bathroom_82
+  - first:
+      213: -4280506133500137863
+    second: TileSheet-Bathroom_83
+  - first:
+      213: 4938699061884105346
+    second: TileSheet-Bathroom_84
+  - first:
+      213: 6577309157610358165
+    second: TileSheet-Bathroom_85
+  - first:
+      213: -2959648664863343839
+    second: TileSheet-Bathroom_86
+  - first:
+      213: -8233818701713218337
+    second: TileSheet-Bathroom_87
+  - first:
+      213: 5828398731161163084
+    second: TileSheet-Bathroom_88
+  - first:
+      213: 5244690912565514516
+    second: TileSheet-Bathroom_89
+  - first:
+      213: 8515081314225131464
+    second: TileSheet-Bathroom_90
+  - first:
+      213: 5689631056082648809
+    second: TileSheet-Bathroom_91
+  - first:
+      213: -1061487462499681124
+    second: TileSheet-Bathroom_92
+  - first:
+      213: 1615062321904894267
+    second: TileSheet-Bathroom_93
+  - first:
+      213: -6868892228791446897
+    second: TileSheet-Bathroom_94
+  - first:
+      213: 1225424799326949443
+    second: TileSheet-Bathroom_95
+  - first:
+      213: -1125915190840452704
+    second: TileSheet-Bathroom_96
+  - first:
+      213: -7537650928732112019
+    second: TileSheet-Bathroom_97
+  - first:
+      213: -7049209231045623239
+    second: TileSheet-Bathroom_98
+  - first:
+      213: -2105948660917002350
+    second: TileSheet-Bathroom_99
+  - first:
+      213: 4644538993868644038
+    second: TileSheet-Bathroom_100
+  - first:
+      213: -4272933269852163365
+    second: TileSheet-Bathroom_101
+  - first:
+      213: -3998995389912690206
+    second: TileSheet-Bathroom_102
+  - first:
+      213: -7974010054454974692
+    second: TileSheet-Bathroom_103
+  - first:
+      213: -1924726935286559313
+    second: TileSheet-Bathroom_104
+  - first:
+      213: 818944857833514745
+    second: TileSheet-Bathroom_105
+  - first:
+      213: -3881401808491895116
+    second: TileSheet-Bathroom_106
+  - first:
+      213: 236616725935580627
+    second: TileSheet-Bathroom_107
+  - first:
+      213: -638856183267161819
+    second: TileSheet-Bathroom_108
+  - first:
+      213: -5363140396138323570
+    second: TileSheet-Bathroom_109
+  - first:
+      213: 549798148893788192
+    second: TileSheet-Bathroom_110
+  - first:
+      213: -4621678462925919365
+    second: TileSheet-Bathroom_111
+  - first:
+      213: -7275390285556853169
+    second: TileSheet-Bathroom_112
+  - first:
+      213: 6896638286272062677
+    second: TileSheet-Bathroom_113
+  - first:
+      213: 2578879405280018988
+    second: TileSheet-Bathroom_114
+  - first:
+      213: -4374244972867135194
+    second: TileSheet-Bathroom_115
+  - first:
+      213: -2944741298725807744
+    second: TileSheet-Bathroom_116
+  - first:
+      213: -8954774866089733080
+    second: TileSheet-Bathroom_117
+  - first:
+      213: 2531689224997633523
+    second: TileSheet-Bathroom_118
+  - first:
+      213: 45838829374561122
+    second: TileSheet-Bathroom_119
+  - first:
+      213: -1694702065320673310
+    second: TileSheet-Bathroom_120
+  - first:
+      213: 5413812186784827967
+    second: TileSheet-Bathroom_121
+  - first:
+      213: 5689330466993299460
+    second: TileSheet-Bathroom_122
+  - first:
+      213: -6213611290633201933
+    second: TileSheet-Bathroom_123
+  - first:
+      213: -5985616709564695828
+    second: TileSheet-Bathroom_124
+  - first:
+      213: 6932764056584322928
+    second: TileSheet-Bathroom_125
+  - first:
+      213: 8667116152340524060
+    second: TileSheet-Bathroom_126
+  - first:
+      213: -4024079204569828685
+    second: TileSheet-Bathroom_127
+  - first:
+      213: -2845983651225811729
+    second: TileSheet-Bathroom_128
+  - first:
+      213: 2728443518455823539
+    second: TileSheet-Bathroom_129
+  - first:
+      213: -8343783820608402824
+    second: TileSheet-Bathroom_130
+  - first:
+      213: 6276723498193968602
+    second: TileSheet-Bathroom_131
+  - first:
+      213: -4911201997313803175
+    second: TileSheet-Bathroom_132
+  - first:
+      213: -2649740045372788219
+    second: TileSheet-Bathroom_133
+  - first:
+      213: -7583095891930647979
+    second: TileSheet-Bathroom_134
+  - first:
+      213: -1157015388454975986
+    second: TileSheet-Bathroom_0
+  - first:
+      213: 5248005210152471928
+    second: TileSheet-Bathroom_1
+  - first:
+      213: -7667371743657787546
+    second: TileSheet-Bathroom_2
+  - first:
+      213: 6106704914689900131
+    second: TileSheet-Bathroom_3
+  - first:
+      213: -6259628972761592675
+    second: TileSheet-Bathroom_4
+  - first:
+      213: 6841519755212056277
+    second: TileSheet-Bathroom_5
+  - first:
+      213: -7111658223561071232
+    second: TileSheet-Bathroom_6
+  - first:
+      213: 2626476789148603714
+    second: TileSheet-Bathroom_7
+  - first:
+      213: 3343551276244583236
+    second: TileSheet-Bathroom_8
+  - first:
+      213: 4081002863356889050
+    second: TileSheet-Bathroom_9
+  - first:
+      213: -811297431552405317
+    second: TileSheet-Bathroom_10
+  - first:
+      213: 7424824455506109809
+    second: TileSheet-Bathroom_11
+  - first:
+      213: -493706845543077498
+    second: TileSheet-Bathroom_12
+  - first:
+      213: -1061944601848352558
+    second: TileSheet-Bathroom_13
+  - first:
+      213: 8782711102372334680
+    second: TileSheet-Bathroom_14
+  - first:
+      213: 1594424635383776094
+    second: TileSheet-Bathroom_15
+  - first:
+      213: 5558856439601251707
+    second: TileSheet-Bathroom_16
+  - first:
+      213: -3597044165324995188
+    second: TileSheet-Bathroom_17
+  - first:
+      213: -1362435891507803397
+    second: TileSheet-Bathroom_18
+  - first:
+      213: -8828823531418913233
+    second: TileSheet-Bathroom_19
+  - first:
+      213: 8371330730699977150
+    second: TileSheet-Bathroom_20
+  - first:
+      213: 1616574150624808696
+    second: TileSheet-Bathroom_21
+  - first:
+      213: 6707346575606531259
+    second: TileSheet-Bathroom_22
+  - first:
+      213: -8201630683896126164
+    second: TileSheet-Bathroom_23
+  - first:
+      213: -2177617519846935380
+    second: TileSheet-Bathroom_24
+  - first:
+      213: -1795837500847559182
+    second: TileSheet-Bathroom_25
+  - first:
+      213: 8199482272297633072
+    second: TileSheet-Bathroom_26
+  - first:
+      213: -2948791050636657995
+    second: TileSheet-Bathroom_27
+  - first:
+      213: 1730172536931758087
+    second: TileSheet-Bathroom_28
+  - first:
+      213: -2961387059794353401
+    second: TileSheet-Bathroom_29
+  - first:
+      213: -7417273373859877089
+    second: TileSheet-Bathroom_30
+  - first:
+      213: 5698839499357061794
+    second: TileSheet-Bathroom_31
+  - first:
+      213: 3066524764045322081
+    second: TileSheet-Bathroom_32
+  - first:
+      213: 3592462597789112157
+    second: TileSheet-Bathroom_33
+  - first:
+      213: -207197438444323946
+    second: TileSheet-Bathroom_34
+  - first:
+      213: 182183850959471284
+    second: TileSheet-Bathroom_35
+  - first:
+      213: -8206615269515352390
+    second: TileSheet-Bathroom_36
+  - first:
+      213: -2921525890714267025
+    second: TileSheet-Bathroom_37
+  - first:
+      213: 5606201295155719494
+    second: TileSheet-Bathroom_38
+  - first:
+      213: 8857994688407882628
+    second: TileSheet-Bathroom_39
+  - first:
+      213: -3827836690507701139
+    second: TileSheet-Bathroom_40
+  - first:
+      213: -3014813657150627901
+    second: TileSheet-Bathroom_41
+  - first:
+      213: 1033078140773055426
+    second: TileSheet-Bathroom_42
+  - first:
+      213: 1956270244252030887
+    second: TileSheet-Bathroom_43
+  - first:
+      213: -5260983044106631165
+    second: TileSheet-Bathroom_44
+  - first:
+      213: 7679662468657542076
+    second: TileSheet-Bathroom_45
+  - first:
+      213: -3693987213128600121
+    second: TileSheet-Bathroom_46
+  - first:
+      213: 707716613352917519
+    second: TileSheet-Bathroom_47
+  - first:
+      213: 6145818940783994680
+    second: TileSheet-Bathroom_48
+  - first:
+      213: -3981679810136279207
+    second: TileSheet-Bathroom_49
+  - first:
+      213: 5540085017442370110
+    second: TileSheet-Bathroom_50
+  - first:
+      213: 7946387159774405049
+    second: TileSheet-Bathroom_51
+  - first:
+      213: -834380796120190340
+    second: TileSheet-Bathroom_52
+  - first:
+      213: 4220044866093284419
+    second: TileSheet-Bathroom_53
+  - first:
+      213: 8801066784468502906
+    second: TileSheet-Bathroom_54
+  - first:
+      213: -2999651980743290803
+    second: TileSheet-Bathroom_55
+  - first:
+      213: -7339945812368695035
+    second: TileSheet-Bathroom_56
+  - first:
+      213: -1070935358460366653
+    second: TileSheet-Bathroom_57
+  - first:
+      213: 8132946280378416610
+    second: TileSheet-Bathroom_58
+  - first:
+      213: 4668288153754562683
+    second: TileSheet-Bathroom_59
+  - first:
+      213: -5322147393907899324
+    second: TileSheet-Bathroom_60
+  - first:
+      213: -8568278263323556065
+    second: TileSheet-Bathroom_61
+  - first:
+      213: -3346080939456646609
+    second: TileSheet-Bathroom_62
+  - first:
+      213: -1440039522691348882
+    second: TileSheet-Bathroom_63
+  - first:
+      213: -1069044241984471167
+    second: TileSheet-Bathroom_64
+  - first:
+      213: 4115672998072720047
+    second: TileSheet-Bathroom_65
+  - first:
+      213: 801040844325979088
+    second: TileSheet-Bathroom_66
+  - first:
+      213: 6031886420452425099
+    second: TileSheet-Bathroom_67
+  - first:
+      213: -4745340933211107281
+    second: TileSheet-Bathroom_68
+  - first:
+      213: -814314197782724599
+    second: TileSheet-Bathroom_69
+  - first:
+      213: -1488707992887183067
+    second: TileSheet-Bathroom_70
+  - first:
+      213: 6846836626281348522
+    second: TileSheet-Bathroom_71
+  - first:
+      213: -3062494210543693314
+    second: TileSheet-Bathroom_72
+  - first:
+      213: -8589292690120162471
+    second: TileSheet-Bathroom_73
+  - first:
+      213: 3613386319227342321
+    second: TileSheet-Bathroom_74
+  - first:
+      213: -8736011556312512914
+    second: TileSheet-Bathroom_75
+  - first:
+      213: 4129278642744097458
+    second: TileSheet-Bathroom_76
+  - first:
+      213: -7044202319941044836
+    second: TileSheet-Bathroom_77
+  - first:
+      213: 5293514079522896972
+    second: TileSheet-Bathroom_78
+  - first:
+      213: -5426373631952517096
+    second: TileSheet-Bathroom_79
+  - first:
+      213: 4272824827861558873
+    second: TileSheet-Bathroom_80
+  - first:
+      213: 6229099881112030752
+    second: TileSheet-Bathroom_81
+  - first:
+      213: -2015502545207457784
+    second: TileSheet-Bathroom_82
+  - first:
+      213: -7037952218235558142
+    second: TileSheet-Bathroom_83
+  - first:
+      213: -4486280812343045968
+    second: TileSheet-Bathroom_84
+  - first:
+      213: -8273048297898217936
+    second: TileSheet-Bathroom_85
+  - first:
+      213: -8326074146426443188
+    second: TileSheet-Bathroom_86
+  - first:
+      213: 2619535357179662119
+    second: TileSheet-Bathroom_87
+  - first:
+      213: -5089956142802275496
+    second: TileSheet-Bathroom_88
+  - first:
+      213: 2486564248277702112
+    second: TileSheet-Bathroom_89
+  - first:
+      213: -2134184806959413302
+    second: TileSheet-Bathroom_90
+  - first:
+      213: -919178323822792623
+    second: TileSheet-Bathroom_91
+  - first:
+      213: 2893145282900559701
+    second: TileSheet-Bathroom_92
+  - first:
+      213: 8125313720089781422
+    second: TileSheet-Bathroom_93
+  - first:
+      213: -3847468153751492849
+    second: TileSheet-Bathroom_94
+  - first:
+      213: 5292487266739931020
+    second: TileSheet-Bathroom_95
+  - first:
+      213: 7277784065265529689
+    second: TileSheet-Bathroom_96
+  - first:
+      213: -5149229511852842534
+    second: TileSheet-Bathroom_97
+  - first:
+      213: 6562854488467842006
+    second: TileSheet-Bathroom_98
+  - first:
+      213: 6140438819192620828
+    second: TileSheet-Bathroom_99
+  - first:
+      213: 2742683107059851770
+    second: TileSheet-Bathroom_100
+  - first:
+      213: -3713621565894897528
+    second: TileSheet-Bathroom_101
+  - first:
+      213: 1503676060503633188
+    second: TileSheet-Bathroom_102
+  - first:
+      213: 6481858177099173434
+    second: TileSheet-Bathroom_103
+  - first:
+      213: -3822099175229893932
+    second: TileSheet-Bathroom_104
+  - first:
+      213: 4507978186951705078
+    second: TileSheet-Bathroom_105
+  - first:
+      213: 5183051979153827221
+    second: TileSheet-Bathroom_106
+  - first:
+      213: -1105116623629202799
+    second: TileSheet-Bathroom_107
+  - first:
+      213: 7216490738163538790
+    second: TileSheet-Bathroom_108
+  - first:
+      213: 4459298337999497944
+    second: TileSheet-Bathroom_109
+  - first:
+      213: -3885767941203377713
+    second: TileSheet-Bathroom_110
+  - first:
+      213: 6347243295673550429
+    second: TileSheet-Bathroom_111
+  - first:
+      213: 2812075252268302108
+    second: TileSheet-Bathroom_112
+  - first:
+      213: -5239083465839240595
+    second: TileSheet-Bathroom_113
+  - first:
+      213: 3393768921811100752
+    second: TileSheet-Bathroom_114
+  - first:
+      213: 3626282531757442899
+    second: TileSheet-Bathroom_115
+  - first:
+      213: -8080635159243662821
+    second: TileSheet-Bathroom_116
+  - first:
+      213: 115229988607496332
+    second: TileSheet-Bathroom_117
+  - first:
+      213: -5712318681838500638
+    second: TileSheet-Bathroom_118
+  - first:
+      213: -3967939775092880703
+    second: TileSheet-Bathroom_119
+  - first:
+      213: 4297134562949972533
+    second: TileSheet-Bathroom_120
+  - first:
+      213: 5999021714092070463
+    second: TileSheet-Bathroom_121
+  - first:
+      213: 517583658099769994
+    second: TileSheet-Bathroom_122
+  - first:
+      213: 5651490257779012300
+    second: TileSheet-Bathroom_123
+  - first:
+      213: 7777463013613586761
+    second: TileSheet-Bathroom_124
+  - first:
+      213: -2908521763473765593
+    second: TileSheet-Bathroom_125
+  - first:
+      213: 8851857517305503096
+    second: TileSheet-Bathroom_126
+  - first:
+      213: 7611275829310325714
+    second: TileSheet-Bathroom_127
+  - first:
+      213: 2878048750888062788
+    second: TileSheet-Bathroom_128
+  - first:
+      213: -5527086844927244955
+    second: TileSheet-Bathroom_129
+  - first:
+      213: 5739836949577315899
+    second: TileSheet-Bathroom_130
+  - first:
+      213: -9048843437553617240
+    second: TileSheet-Bathroom_131
+  - first:
+      213: -8965249376765695193
+    second: TileSheet-Bathroom_132
+  - first:
+      213: 3000058150836390183
+    second: TileSheet-Bathroom_133
+  - first:
+      213: 2369733062946885604
+    second: TileSheet-Bathroom_134
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: TileSheet-Bathroom_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e060b7362a471ffe0800000000000000
+      internalID: -1157015388454975986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileSheet-Bathroom_1
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87d898afee8a4d840800000000000000
+      internalID: 5248005210152471928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileSheet-Bathroom_2
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66ff86ac506089590800000000000000
+      internalID: -7667371743657787546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileSheet-Bathroom_3
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36e3934e3cf5fb450800000000000000
+      internalID: 6106704914689900131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileSheet-Bathroom_4
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9c4dcc3d945129a0800000000000000
+      internalID: -6259628972761592675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileSheet-Bathroom_5
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d66b3d28f5f1fe50800000000000000
+      internalID: 6841519755212056277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileSheet-Bathroom_6
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08528ac56805e4d90800000000000000
+      internalID: -7111658223561071232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileSheet-Bathroom_7
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 245d20c59be137420800000000000000
+      internalID: 2626476789148603714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileSheet-Bathroom_8
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 443ccdcbb2ea66e20800000000000000
+      internalID: 3343551276244583236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileSheet-Bathroom_9
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad74dbd6b72a2a830800000000000000
+      internalID: 4081002863356889050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileSheet-Bathroom_10
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb0d121d841bdb4f0800000000000000
+      internalID: -811297431552405317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileSheet-Bathroom_11
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 175231ef0864a0760800000000000000
+      internalID: 7424824455506109809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileSheet-Bathroom_12
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 689e9306d300629f0800000000000000
+      internalID: -493706845543077498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileSheet-Bathroom_13
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 140
+        width: 19
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d07fa3d2073341f0800000000000000
+      internalID: -1061944601848352558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileSheet-Bathroom_14
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 140
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85c48cdf63572e970800000000000000
+      internalID: 8782711102372334680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileSheet-Bathroom_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e538e2d12c8802610800000000000000
+      internalID: 1594424635383776094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileSheet-Bathroom_16
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7543dfca76052d40800000000000000
+      internalID: 5558856439601251707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileSheet-Bathroom_17
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c85896cb36bb41ec0800000000000000
+      internalID: -3597044165324995188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileSheet-Bathroom_18
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bfa4f6176c7a71de0800000000000000
+      internalID: -1362435891507803397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileSheet-Bathroom_19
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f267a2976c7b97580800000000000000
+      internalID: -8828823531418913233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileSheet-Bathroom_20
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb1fea442f0fc2470800000000000000
+      internalID: 8371330730699977150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileSheet-Bathroom_21
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8fe021100a93f6610800000000000000
+      internalID: 1616574150624808696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileSheet-Bathroom_22
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb4c5786c28451d50800000000000000
+      internalID: 6707346575606531259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileSheet-Bathroom_23
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c256d6bd854fd2e80800000000000000
+      internalID: -8201630683896126164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileSheet-Bathroom_24
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca43bd8376c87c1e0800000000000000
+      internalID: -2177617519846935380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileSheet-Bathroom_25
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2fde7a7ce47e317e0800000000000000
+      internalID: -1795837500847559182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileSheet-Bathroom_26
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 035c9661fa96ac170800000000000000
+      internalID: 8199482272297633072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileSheet-Bathroom_27
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ba73fda92ac317d0800000000000000
+      internalID: -2948791050636657995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileSheet-Bathroom_28
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70034f761cec20810800000000000000
+      internalID: 1730172536931758087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileSheet-Bathroom_29
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 703e482c82a07e6d0800000000000000
+      internalID: -2961387059794353401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileSheet-Bathroom_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1f6e153a2d801990800000000000000
+      internalID: -7417273373859877089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileSheet-Bathroom_31
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a28427b458561f40800000000000000
+      internalID: 5698839499357061794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileSheet-Bathroom_32
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1672cd7960c7e8a20800000000000000
+      internalID: 3066524764045322081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileSheet-Bathroom_33
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d57d812f2bdfad130800000000000000
+      internalID: 3592462597789112157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileSheet-Bathroom_34
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69bb72b0703ef1df0800000000000000
+      internalID: -207197438444323946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileSheet-Bathroom_35
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b280484f3f378200800000000000000
+      internalID: 182183850959471284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileSheet-Bathroom_36
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab6ad3494ee3c1e80800000000000000
+      internalID: -8206615269515352390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileSheet-Bathroom_37
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f629ed96ea7a477d0800000000000000
+      internalID: -2921525890714267025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileSheet-Bathroom_38
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64d6711006a3dcd40800000000000000
+      internalID: 5606201295155719494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileSheet-Bathroom_39
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48b49d8cc3bedea70800000000000000
+      internalID: 8857994688407882628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileSheet-Bathroom_40
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d64e41c8fcac0eac0800000000000000
+      internalID: -3827836690507701139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileSheet-Bathroom_41
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3cf5a85b3fa3926d0800000000000000
+      internalID: -3014813657150627901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileSheet-Bathroom_42
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2cbbff5781b365e00800000000000000
+      internalID: 1033078140773055426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileSheet-Bathroom_43
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a71f412c61162b10800000000000000
+      internalID: 1956270244252030887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileSheet-Bathroom_44
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 308cba69bcb3df6b0800000000000000
+      internalID: -5260983044106631165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileSheet-Bathroom_45
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb37b3f9354a39a60800000000000000
+      internalID: 7679662468657542076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileSheet-Bathroom_46
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c572a483325cbcc0800000000000000
+      internalID: -3693987213128600121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileSheet-Bathroom_47
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0a0b8c928052d900800000000000000
+      internalID: 707716613352917519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileSheet-Bathroom_48
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8372c43c3c55a4550800000000000000
+      internalID: 6145818940783994680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileSheet-Bathroom_49
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9577b7bfe4b3eb8c0800000000000000
+      internalID: -3981679810136279207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileSheet-Bathroom_50
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e32cd1288f552ec40800000000000000
+      internalID: 5540085017442370110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileSheet-Bathroom_51
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b12412250d374e60800000000000000
+      internalID: 7946387159774405049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileSheet-Bathroom_52
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 87
+        width: 34
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7239df261fab64f0800000000000000
+      internalID: -834380796120190340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileSheet-Bathroom_53
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34c73bb627c909a30800000000000000
+      internalID: 4220044866093284419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileSheet-Bathroom_54
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a790cb44c9ba32a70800000000000000
+      internalID: 8801066784468502906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileSheet-Bathroom_55
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d40dff59a681f56d0800000000000000
+      internalID: -2999651980743290803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileSheet-Bathroom_56
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 501e52f1c26432a90800000000000000
+      internalID: -7339945812368695035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileSheet-Bathroom_57
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c0709d27f54321f0800000000000000
+      internalID: -1070935358460366653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileSheet-Bathroom_58
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ed3a434d870ed070800000000000000
+      internalID: 8132946280378416610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileSheet-Bathroom_59
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7074b9975719c040800000000000000
+      internalID: 4668288153754562683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileSheet-Bathroom_60
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44449d7a42fe326b0800000000000000
+      internalID: -5322147393907899324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileSheet-Bathroom_61
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1706e1f05c571980800000000000000
+      internalID: -8568278263323556065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileSheet-Bathroom_62
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f223bf52d155091d0800000000000000
+      internalID: -3346080939456646609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileSheet-Bathroom_63
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e66857b0fa3f30ce0800000000000000
+      internalID: -1440039522691348882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileSheet-Bathroom_64
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18fb65b0dedf921f0800000000000000
+      internalID: -1069044241984471167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileSheet-Bathroom_65
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: faa9ac539cecd1930800000000000000
+      internalID: 4115672998072720047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileSheet-Bathroom_66
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d301a0676edd1b00800000000000000
+      internalID: 801040844325979088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileSheet-Bathroom_67
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8db198bdb095b350800000000000000
+      internalID: 6031886420452425099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileSheet-Bathroom_68
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f20d4d92099252eb0800000000000000
+      internalID: -4745340933211107281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileSheet-Bathroom_69
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9008a913d89f2b4f0800000000000000
+      internalID: -814314197782724599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileSheet-Bathroom_70
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 529bcadc7fb075be0800000000000000
+      internalID: -1488707992887183067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileSheet-Bathroom_71
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aad32a0b2a9d40f50800000000000000
+      internalID: 6846836626281348522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileSheet-Bathroom_72
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef15ad5cdb5df75d0800000000000000
+      internalID: -3062494210543693314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileSheet-Bathroom_73
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 953478d6ec3bcc880800000000000000
+      internalID: -8589292690120162471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileSheet-Bathroom_74
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 62
+        width: 11
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1fd4dc976b3552230800000000000000
+      internalID: 3613386319227342321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileSheet-Bathroom_75
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e66094066c373c680800000000000000
+      internalID: -8736011556312512914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileSheet-Bathroom_76
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ba7e573c052e4930800000000000000
+      internalID: 4129278642744097458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileSheet-Bathroom_77
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c957ee1df47fd3e90800000000000000
+      internalID: -7044202319941044836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileSheet-Bathroom_78
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4cbd735207567940800000000000000
+      internalID: 5293514079522896972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileSheet-Bathroom_79
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 60
+        width: 12
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8188ce09ee5a1b4b0800000000000000
+      internalID: -5426373631952517096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileSheet-Bathroom_80
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9566824ea8f1c4b30800000000000000
+      internalID: 4272824827861558873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileSheet-Bathroom_81
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02e4c14b655327650800000000000000
+      internalID: 6229099881112030752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileSheet-Bathroom_82
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 808830d1d1f7704e0800000000000000
+      internalID: -2015502545207457784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileSheet-Bathroom_83
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 207a5e50fbb245e90800000000000000
+      internalID: -7037952218235558142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileSheet-Bathroom_84
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b054a9de578db1c0800000000000000
+      internalID: -4486280812343045968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileSheet-Bathroom_85
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03e6022d76a303d80800000000000000
+      internalID: -8273048297898217936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileSheet-Bathroom_86
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4a20b06da7d37c80800000000000000
+      internalID: -8326074146426443188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileSheet-Bathroom_87
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72f054947857a5420800000000000000
+      internalID: 2619535357179662119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileSheet-Bathroom_88
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 853f3f91bd7dc59b0800000000000000
+      internalID: -5089956142802275496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileSheet-Bathroom_89
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e557c9620d028220800000000000000
+      internalID: 2486564248277702112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileSheet-Bathroom_90
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac70628b93ad162e0800000000000000
+      internalID: -2134184806959413302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileSheet-Bathroom_91
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 150bd4b3f2c6e33f0800000000000000
+      internalID: -919178323822792623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileSheet-Bathroom_92
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55782e66e44862820800000000000000
+      internalID: 2893145282900559701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileSheet-Bathroom_93
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea42f8657c9e2c070800000000000000
+      internalID: 8125313720089781422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileSheet-Bathroom_94
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f07a303591c0b9ac0800000000000000
+      internalID: -3847468153751492849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileSheet-Bathroom_95
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c87cf48d021b27940800000000000000
+      internalID: 5292487266739931020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileSheet-Bathroom_96
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 953762a4c02eff460800000000000000
+      internalID: 7277784065265529689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileSheet-Bathroom_97
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad1ad0f6a034a88b0800000000000000
+      internalID: -5149229511852842534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileSheet-Bathroom_98
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d324b1c261f31b50800000000000000
+      internalID: 6562854488467842006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileSheet-Bathroom_99
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c17cef69298373550800000000000000
+      internalID: 6140438819192620828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileSheet-Bathroom_100
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af164c721c7ff0620800000000000000
+      internalID: 2742683107059851770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileSheet-Bathroom_101
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 880da968cd0967cc0800000000000000
+      internalID: -3713621565894897528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileSheet-Bathroom_102
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42de39309612ed410800000000000000
+      internalID: 1503676060503633188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileSheet-Bathroom_103
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3e05727baf24f950800000000000000
+      internalID: 6481858177099173434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileSheet-Bathroom_104
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d2db1cec0d25fac0800000000000000
+      internalID: -3822099175229893932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileSheet-Bathroom_105
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f14778d64e8f8e30800000000000000
+      internalID: 4507978186951705078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileSheet-Bathroom_106
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59569d56056ede740800000000000000
+      internalID: 5183051979153827221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileSheet-Bathroom_107
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19ac3353946d9a0f0800000000000000
+      internalID: -1105116623629202799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileSheet-Bathroom_108
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66b522d7710262460800000000000000
+      internalID: 7216490738163538790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileSheet-Bathroom_109
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8da23f7463c92ed30800000000000000
+      internalID: 4459298337999497944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileSheet-Bathroom_110
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc1c8f825aaf21ac0800000000000000
+      internalID: -3885767941203377713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileSheet-Bathroom_111
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d560a95f520f51850800000000000000
+      internalID: 6347243295673550429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileSheet-Bathroom_112
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1f7e1dfa8f760720800000000000000
+      internalID: 2812075252268302108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileSheet-Bathroom_113
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6a970e78590b47b0800000000000000
+      internalID: -5239083465839240595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileSheet-Bathroom_114
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 054af4a7ad6191f20800000000000000
+      internalID: 3393768921811100752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileSheet-Bathroom_115
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3574b90ffb4235230800000000000000
+      internalID: 3626282531757442899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileSheet-Bathroom_116
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1adfbdb221dbdf80800000000000000
+      internalID: -8080635159243662821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileSheet-Bathroom_117
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c801c6a6011699100800000000000000
+      internalID: 115229988607496332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileSheet-Bathroom_118
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e4403d8c64c9b0b0800000000000000
+      internalID: -5712318681838500638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileSheet-Bathroom_119
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ca027f2ccb0fe8c0800000000000000
+      internalID: -3967939775092880703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileSheet-Bathroom_120
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 532cfa82e1d72ab30800000000000000
+      internalID: 4297134562949972533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileSheet-Bathroom_121
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f36105cf67ec04350800000000000000
+      internalID: 5999021714092070463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileSheet-Bathroom_122
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8285924893de2700800000000000000
+      internalID: 517583658099769994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileSheet-Bathroom_123
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc2bf7252702e6e40800000000000000
+      internalID: 5651490257779012300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileSheet-Bathroom_124
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9494d2477691feb60800000000000000
+      internalID: 7777463013613586761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileSheet-Bathroom_125
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72b47aabddad2a7d0800000000000000
+      internalID: -2908521763473765593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileSheet-Bathroom_126
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 8
+        width: 18
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87d9d59438d18da70800000000000000
+      internalID: 8851857517305503096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileSheet-Bathroom_127
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d30f8d5a0fa0a960800000000000000
+      internalID: 7611275829310325714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileSheet-Bathroom_128
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44f80f22712e0f720800000000000000
+      internalID: 2878048750888062788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileSheet-Bathroom_129
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 565806d5cc7db43b0800000000000000
+      internalID: -5527086844927244955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileSheet-Bathroom_130
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b36b7307b4ff7af40800000000000000
+      internalID: 5739836949577315899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileSheet-Bathroom_131
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a6fd7c16dc0c6280800000000000000
+      internalID: -9048843437553617240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileSheet-Bathroom_132
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72ba6171139059380800000000000000
+      internalID: -8965249376765695193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileSheet-Bathroom_133
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7294e124ef852a920800000000000000
+      internalID: 3000058150836390183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileSheet-Bathroom_134
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ef82755aabf2e020800000000000000
+      internalID: 2369733062946885604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
