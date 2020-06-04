@@ -11,6 +11,9 @@ TextureImporter:
   - first:
       213: 8395013860120789230
     second: TileSheet-ConsultationOffice_2
+  - first:
+      213: 6583959766986422054
+    second: TileSheet-ConsultationOffice_3
   externalObjects: {}
   serializedVersion: 11
   mipmaps:
@@ -170,7 +173,7 @@ TextureImporter:
         width: 120
         height: 38
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -178,6 +181,27 @@ TextureImporter:
       bones: []
       spriteID: ee00bf880a4118470800000000000000
       internalID: 8395013860120789230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileSheet-ConsultationOffice_3
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 253
+        width: 28
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62770b6568cee5b50800000000000000
+      internalID: 6583959766986422054
       vertices: []
       indices: 
       edges: []
