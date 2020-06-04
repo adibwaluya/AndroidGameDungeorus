@@ -17,6 +17,9 @@ TextureImporter:
   - first:
       213: 8814030036538085870
     second: TileSheet-BedRooms_4
+  - first:
+      213: 6136954709350663077
+    second: TileSheet-BedRooms_5
   externalObjects: {}
   serializedVersion: 11
   mipmaps:
@@ -197,7 +200,7 @@ TextureImporter:
         width: 16
         height: 35
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -218,7 +221,7 @@ TextureImporter:
         width: 40
         height: 40
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -226,6 +229,27 @@ TextureImporter:
       bones: []
       spriteID: ee1d9779e99b15a70800000000000000
       internalID: 8814030036538085870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileSheet-BedRooms_5
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 89
+        width: 24
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a3c18d0bc7da2550800000000000000
+      internalID: 6136954709350663077
       vertices: []
       indices: 
       edges: []
