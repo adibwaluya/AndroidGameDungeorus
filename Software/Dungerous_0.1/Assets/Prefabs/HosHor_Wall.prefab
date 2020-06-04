@@ -93,6 +93,7 @@ GameObject:
   - component: {fileID: 7567929210737265987}
   - component: {fileID: 4966531822064538641}
   - component: {fileID: 623643434332262113}
+  - component: {fileID: 8676026025555078259}
   m_Layer: 0
   m_Name: HosHor_Wall
   m_TagString: Untagged
@@ -162,3 +163,14 @@ Rigidbody2D:
   m_SleepingMode: 1
   m_CollisionDetection: 0
   m_Constraints: 0
+--- !u!210 &8676026025555078259
+SortingGroup:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5586811160693627150}
+  m_Enabled: 1
+  m_SortingLayerID: 0
+  m_SortingLayer: 0
+  m_SortingOrder: 3
