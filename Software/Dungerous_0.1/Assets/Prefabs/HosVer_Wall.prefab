@@ -93,6 +93,7 @@ GameObject:
   - component: {fileID: 631331512648725689}
   - component: {fileID: 8862249406078521762}
   - component: {fileID: 2730422024571870840}
+  - component: {fileID: 3079939021103436926}
   m_Layer: 0
   m_Name: HosVer_Wall
   m_TagString: Untagged
@@ -162,3 +163,14 @@ Rigidbody2D:
   m_SleepingMode: 1
   m_CollisionDetection: 0
   m_Constraints: 0
+--- !u!210 &3079939021103436926
+SortingGroup:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4657444512725026583}
+  m_Enabled: 1
+  m_SortingLayerID: 0
+  m_SortingLayer: 0
+  m_SortingOrder: 0

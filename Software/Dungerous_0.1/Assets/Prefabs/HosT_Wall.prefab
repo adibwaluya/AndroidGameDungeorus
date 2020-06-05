@@ -11,6 +11,7 @@ GameObject:
   - component: {fileID: 8116827969135066513}
   - component: {fileID: 2103355066058557504}
   - component: {fileID: 886599506857785826}
+  - component: {fileID: 5820014485544331119}
   m_Layer: 0
   m_Name: HosT_Wall
   m_TagString: Untagged
@@ -80,6 +81,17 @@ Rigidbody2D:
   m_SleepingMode: 1
   m_CollisionDetection: 0
   m_Constraints: 0
+--- !u!210 &5820014485544331119
+SortingGroup:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 575578633356518067}
+  m_Enabled: 1
+  m_SortingLayerID: 0
+  m_SortingLayer: 0
+  m_SortingOrder: 0
 --- !u!1 &1887085397018963812
 GameObject:
   m_ObjectHideFlags: 0

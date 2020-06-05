@@ -11,6 +11,7 @@ GameObject:
   - component: {fileID: 8251638056004931258}
   - component: {fileID: 670155871163876027}
   - component: {fileID: 8296788091688198010}
+  - component: {fileID: 7732210495772916098}
   m_Layer: 0
   m_Name: WCLeBotEdge_Wall
   m_TagString: Untagged
@@ -80,6 +81,17 @@ Rigidbody2D:
   m_SleepingMode: 1
   m_CollisionDetection: 0
   m_Constraints: 0
+--- !u!210 &7732210495772916098
+SortingGroup:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8251638056004931257}
+  m_Enabled: 1
+  m_SortingLayerID: 0
+  m_SortingLayer: 0
+  m_SortingOrder: 0
 --- !u!1 &8251638056646855849
 GameObject:
   m_ObjectHideFlags: 0

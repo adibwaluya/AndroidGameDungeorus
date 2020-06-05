@@ -84,8 +84,8 @@ PolygonCollider2D:
       - {x: -0.06459546, y: 0.26299238}
       - {x: -0.042349577, y: 0.3250599}
       - {x: -0.5621929, y: 0.39596558}
-      - {x: -0.95918304, y: 0.34964943}
-      - {x: -0.7745004, y: -0.016100407}
+      - {x: -0.7671047, y: 0.41949606}
+      - {x: -0.7570388, y: -0.0073695183}
       - {x: -0.4899422, y: -0.07575035}
       - {x: -0.46588898, y: -0.5570986}
       - {x: 0.08394778, y: -0.6139829}
@@ -101,7 +101,7 @@ SortingGroup:
   m_Enabled: 1
   m_SortingLayerID: 0
   m_SortingLayer: 0
-  m_SortingOrder: 2
+  m_SortingOrder: 1
 --- !u!1 &3006448009679779802
 GameObject:
   m_ObjectHideFlags: 0
@@ -171,7 +171,7 @@ SpriteRenderer:
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: 0
   m_SortingLayer: 0
-  m_SortingOrder: 1
+  m_SortingOrder: 0
   m_Sprite: {fileID: -240491696978017056, guid: 6fa49c40ea7f842f0b2ce76f930b575e,
     type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}

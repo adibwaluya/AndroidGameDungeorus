@@ -93,6 +93,7 @@ GameObject:
   - component: {fileID: 1852223551906133000}
   - component: {fileID: 161536464840284005}
   - component: {fileID: 8404503321240392965}
+  - component: {fileID: 3327956795151471221}
   m_Layer: 0
   m_Name: WCRiUpEdge_Wall
   m_TagString: Untagged
@@ -162,3 +163,14 @@ Rigidbody2D:
   m_SleepingMode: 1
   m_CollisionDetection: 0
   m_Constraints: 0
+--- !u!210 &3327956795151471221
+SortingGroup:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1852223551906133007}
+  m_Enabled: 1
+  m_SortingLayerID: 0
+  m_SortingLayer: 0
+  m_SortingOrder: 0

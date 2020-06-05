@@ -11,6 +11,7 @@ GameObject:
   - component: {fileID: 6474271135476435211}
   - component: {fileID: 4778374230656514267}
   - component: {fileID: 4675791155711375099}
+  - component: {fileID: 683983743743491399}
   m_Layer: 0
   m_Name: Receptionist_1
   m_TagString: Untagged
@@ -88,6 +89,17 @@ Rigidbody2D:
   m_SleepingMode: 1
   m_CollisionDetection: 0
   m_Constraints: 0
+--- !u!210 &683983743743491399
+SortingGroup:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6474271135476435208}
+  m_Enabled: 1
+  m_SortingLayerID: 0
+  m_SortingLayer: 0
+  m_SortingOrder: 1
 --- !u!1 &6474271135558574649
 GameObject:
   m_ObjectHideFlags: 0

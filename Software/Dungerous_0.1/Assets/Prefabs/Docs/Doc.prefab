@@ -93,6 +93,7 @@ GameObject:
   - component: {fileID: 7163528687846891126}
   - component: {fileID: 201305909}
   - component: {fileID: 201305910}
+  - component: {fileID: 5171757346759398711}
   m_Layer: 0
   m_Name: Doc
   m_TagString: Untagged
@@ -168,3 +169,14 @@ PolygonCollider2D:
       - {x: -0.036792755, y: -0.6599531}
       - {x: 0.050222397, y: -0.39362812}
       - {x: -0.12407017, y: 0.015800476}
+--- !u!210 &5171757346759398711
+SortingGroup:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7163528687846891127}
+  m_Enabled: 1
+  m_SortingLayerID: 0
+  m_SortingLayer: 0
+  m_SortingOrder: 0

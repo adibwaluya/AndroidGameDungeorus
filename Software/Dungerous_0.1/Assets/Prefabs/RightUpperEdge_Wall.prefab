@@ -11,6 +11,7 @@ GameObject:
   - component: {fileID: 8778297235694490851}
   - component: {fileID: 797966817508369827}
   - component: {fileID: 7576413598930229099}
+  - component: {fileID: 2841612647767126912}
   m_Layer: 0
   m_Name: RightUpperEdge_Wall
   m_TagString: Untagged
@@ -80,6 +81,17 @@ Rigidbody2D:
   m_SleepingMode: 1
   m_CollisionDetection: 0
   m_Constraints: 0
+--- !u!210 &2841612647767126912
+SortingGroup:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4962975758366331099}
+  m_Enabled: 1
+  m_SortingLayerID: 0
+  m_SortingLayer: 0
+  m_SortingOrder: 0
 --- !u!1 &6212979330156734428
 GameObject:
   m_ObjectHideFlags: 0

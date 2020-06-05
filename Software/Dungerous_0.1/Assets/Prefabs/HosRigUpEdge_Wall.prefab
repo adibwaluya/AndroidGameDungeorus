@@ -11,6 +11,7 @@ GameObject:
   - component: {fileID: 5669013074256241146}
   - component: {fileID: 6893551003659050450}
   - component: {fileID: 6919652419401359318}
+  - component: {fileID: 1701577956500535323}
   m_Layer: 0
   m_Name: HosRigUpEdge_Wall
   m_TagString: Untagged
@@ -80,6 +81,17 @@ Rigidbody2D:
   m_SleepingMode: 1
   m_CollisionDetection: 0
   m_Constraints: 0
+--- !u!210 &1701577956500535323
+SortingGroup:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 763843130581742103}
+  m_Enabled: 1
+  m_SortingLayerID: 0
+  m_SortingLayer: 0
+  m_SortingOrder: 0
 --- !u!1 &3562932179346205955
 GameObject:
   m_ObjectHideFlags: 0

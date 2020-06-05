@@ -93,6 +93,7 @@ GameObject:
   - component: {fileID: 5661569788235544851}
   - component: {fileID: 6395906055267645798}
   - component: {fileID: 7870462519828051862}
+  - component: {fileID: 8945930525256491242}
   m_Layer: 0
   m_Name: Vertical_Wall
   m_TagString: Untagged
@@ -162,3 +163,14 @@ Rigidbody2D:
   m_SleepingMode: 1
   m_CollisionDetection: 0
   m_Constraints: 0
+--- !u!210 &8945930525256491242
+SortingGroup:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6693018512652293702}
+  m_Enabled: 1
+  m_SortingLayerID: 0
+  m_SortingLayer: 0
+  m_SortingOrder: 0

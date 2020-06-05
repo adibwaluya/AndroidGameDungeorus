@@ -11,6 +11,7 @@ GameObject:
   - component: {fileID: 399958647177679330}
   - component: {fileID: 5888324192383072972}
   - component: {fileID: 5081048051342835374}
+  - component: {fileID: 8823198393653222075}
   m_Layer: 0
   m_Name: HosRightBottomEdge_Wall
   m_TagString: Untagged
@@ -80,6 +81,17 @@ Rigidbody2D:
   m_SleepingMode: 1
   m_CollisionDetection: 0
   m_Constraints: 0
+--- !u!210 &8823198393653222075
+SortingGroup:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4962637292283704822}
+  m_Enabled: 1
+  m_SortingLayerID: 0
+  m_SortingLayer: 0
+  m_SortingOrder: 0
 --- !u!1 &8291445563543632094
 GameObject:
   m_ObjectHideFlags: 0

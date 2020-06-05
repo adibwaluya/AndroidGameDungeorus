@@ -11,6 +11,7 @@ GameObject:
   - component: {fileID: 2682201055010275671}
   - component: {fileID: 3981263831944952276}
   - component: {fileID: 2380880209907186481}
+  - component: {fileID: 8798766289556631316}
   m_Layer: 0
   m_Name: Trash_1
   m_TagString: Untagged
@@ -80,6 +81,17 @@ Rigidbody2D:
   m_SleepingMode: 1
   m_CollisionDetection: 0
   m_Constraints: 0
+--- !u!210 &8798766289556631316
+SortingGroup:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2682201055010275668}
+  m_Enabled: 1
+  m_SortingLayerID: 0
+  m_SortingLayer: 0
+  m_SortingOrder: 0
 --- !u!1 &2682201055019908686
 GameObject:
   m_ObjectHideFlags: 0

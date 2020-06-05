@@ -11,6 +11,7 @@ GameObject:
   - component: {fileID: 6453782214718458797}
   - component: {fileID: 1008954186225996052}
   - component: {fileID: 9100282284320092904}
+  - component: {fileID: 30191653035127607}
   m_Layer: 0
   m_Name: WCRiBotEdge_Wall
   m_TagString: Untagged
@@ -80,6 +81,17 @@ Rigidbody2D:
   m_SleepingMode: 1
   m_CollisionDetection: 0
   m_Constraints: 0
+--- !u!210 &30191653035127607
+SortingGroup:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6453782214718458794}
+  m_Enabled: 1
+  m_SortingLayerID: 0
+  m_SortingLayer: 0
+  m_SortingOrder: 0
 --- !u!1 &6453782215565266733
 GameObject:
   m_ObjectHideFlags: 0

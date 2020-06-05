@@ -11,6 +11,7 @@ GameObject:
   - component: {fileID: 7577934763297835895}
   - component: {fileID: 7730336311698846844}
   - component: {fileID: 3943249589257149830}
+  - component: {fileID: 3421497838925810095}
   m_Layer: 0
   m_Name: Cargo
   m_TagString: Untagged
@@ -84,6 +85,17 @@ Rigidbody2D:
   m_SleepingMode: 1
   m_CollisionDetection: 0
   m_Constraints: 0
+--- !u!210 &3421497838925810095
+SortingGroup:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7577934763297835894}
+  m_Enabled: 1
+  m_SortingLayerID: 0
+  m_SortingLayer: 0
+  m_SortingOrder: 0
 --- !u!1 &7577934764433125258
 GameObject:
   m_ObjectHideFlags: 0

@@ -11,6 +11,7 @@ GameObject:
   - component: {fileID: 4593015238921398252}
   - component: {fileID: 8755476306045915887}
   - component: {fileID: 228666377999994930}
+  - component: {fileID: 5094258124562695164}
   m_Layer: 0
   m_Name: Table_3
   m_TagString: Untagged
@@ -80,6 +81,17 @@ Rigidbody2D:
   m_SleepingMode: 1
   m_CollisionDetection: 0
   m_Constraints: 0
+--- !u!210 &5094258124562695164
+SortingGroup:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 431094345819215312}
+  m_Enabled: 1
+  m_SortingLayerID: 0
+  m_SortingLayer: 0
+  m_SortingOrder: 0
 --- !u!1 &4183736507431344619
 GameObject:
   m_ObjectHideFlags: 0

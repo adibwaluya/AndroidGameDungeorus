@@ -92,6 +92,7 @@ GameObject:
   - component: {fileID: 4937893274728480748}
   - component: {fileID: 4559459849052535272}
   - component: {fileID: 2422241285869874408}
+  - component: {fileID: 5483848130389550893}
   m_Layer: 0
   m_Name: HostLeftUpEdge_Wall
   m_TagString: Untagged
@@ -161,3 +162,14 @@ Rigidbody2D:
   m_SleepingMode: 1
   m_CollisionDetection: 0
   m_Constraints: 0
+--- !u!210 &5483848130389550893
+SortingGroup:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6521493180055777281}
+  m_Enabled: 1
+  m_SortingLayerID: 0
+  m_SortingLayer: 0
+  m_SortingOrder: 0

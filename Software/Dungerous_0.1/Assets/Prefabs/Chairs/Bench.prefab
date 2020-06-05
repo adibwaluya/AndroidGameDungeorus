@@ -93,6 +93,7 @@ GameObject:
   - component: {fileID: 6363326861189099800}
   - component: {fileID: 7452199299664575250}
   - component: {fileID: 5163711830447721238}
+  - component: {fileID: 430919814}
   m_Layer: 0
   m_Name: Bench
   m_TagString: Untagged
@@ -162,3 +163,14 @@ Rigidbody2D:
   m_SleepingMode: 1
   m_CollisionDetection: 0
   m_Constraints: 0
+--- !u!210 &430919814
+SortingGroup:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6363326861189099801}
+  m_Enabled: 1
+  m_SortingLayerID: 0
+  m_SortingLayer: 0
+  m_SortingOrder: 1

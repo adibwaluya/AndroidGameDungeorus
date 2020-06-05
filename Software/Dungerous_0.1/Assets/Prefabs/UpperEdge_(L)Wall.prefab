@@ -93,6 +93,7 @@ GameObject:
   - component: {fileID: 7956226863608899391}
   - component: {fileID: 7963083262213939880}
   - component: {fileID: 207886675926436820}
+  - component: {fileID: 6449253317157907359}
   m_Layer: 0
   m_Name: UpperEdge_(L)Wall
   m_TagString: Untagged
@@ -162,3 +163,14 @@ Rigidbody2D:
   m_SleepingMode: 1
   m_CollisionDetection: 0
   m_Constraints: 0
+--- !u!210 &6449253317157907359
+SortingGroup:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 9147599136464290374}
+  m_Enabled: 1
+  m_SortingLayerID: 0
+  m_SortingLayer: 0
+  m_SortingOrder: 0

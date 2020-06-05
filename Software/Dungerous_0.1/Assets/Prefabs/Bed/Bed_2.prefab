@@ -93,6 +93,7 @@ GameObject:
   - component: {fileID: 8184814660065675343}
   - component: {fileID: 428170438331073419}
   - component: {fileID: 7483469872137553260}
+  - component: {fileID: 699452488479090992}
   m_Layer: 0
   m_Name: Bed_2
   m_TagString: Untagged
@@ -162,3 +163,14 @@ Rigidbody2D:
   m_SleepingMode: 1
   m_CollisionDetection: 0
   m_Constraints: 0
+--- !u!210 &699452488479090992
+SortingGroup:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8184814660065675328}
+  m_Enabled: 1
+  m_SortingLayerID: 0
+  m_SortingLayer: 0
+  m_SortingOrder: 1

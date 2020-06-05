@@ -11,6 +11,7 @@ GameObject:
   - component: {fileID: 144621981684738556}
   - component: {fileID: 2220976771703678789}
   - component: {fileID: 1416184085237652097}
+  - component: {fileID: 1289212249702805787}
   m_Layer: 0
   m_Name: End_Wall
   m_TagString: Untagged
@@ -80,6 +81,17 @@ Rigidbody2D:
   m_SleepingMode: 1
   m_CollisionDetection: 0
   m_Constraints: 0
+--- !u!210 &1289212249702805787
+SortingGroup:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6184598133352815879}
+  m_Enabled: 1
+  m_SortingLayerID: 0
+  m_SortingLayer: 0
+  m_SortingOrder: 0
 --- !u!1 &6985326677953791334
 GameObject:
   m_ObjectHideFlags: 0

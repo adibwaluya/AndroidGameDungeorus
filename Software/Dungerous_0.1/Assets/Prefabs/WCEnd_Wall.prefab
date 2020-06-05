@@ -11,6 +11,7 @@ GameObject:
   - component: {fileID: 4617351074609931071}
   - component: {fileID: 8187237968816142699}
   - component: {fileID: 5537500905634361768}
+  - component: {fileID: 8399701683036075240}
   m_Layer: 0
   m_Name: WCEnd_Wall
   m_TagString: Untagged
@@ -80,6 +81,17 @@ Rigidbody2D:
   m_SleepingMode: 1
   m_CollisionDetection: 0
   m_Constraints: 0
+--- !u!210 &8399701683036075240
+SortingGroup:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4617351074609931068}
+  m_Enabled: 1
+  m_SortingLayerID: 0
+  m_SortingLayer: 0
+  m_SortingOrder: 0
 --- !u!1 &4617351075040987501
 GameObject:
   m_ObjectHideFlags: 0

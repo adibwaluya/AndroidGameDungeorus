@@ -11,6 +11,7 @@ GameObject:
   - component: {fileID: 6014246166902827881}
   - component: {fileID: 497850160055050431}
   - component: {fileID: 6526300979604805580}
+  - component: {fileID: 2129437970}
   m_Layer: 0
   m_Name: Edge_Wall
   m_TagString: Untagged
@@ -80,6 +81,17 @@ Rigidbody2D:
   m_SleepingMode: 1
   m_CollisionDetection: 0
   m_Constraints: 0
+--- !u!210 &2129437970
+SortingGroup:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7392238914057785303}
+  m_Enabled: 1
+  m_SortingLayerID: 0
+  m_SortingLayer: 0
+  m_SortingOrder: 0
 --- !u!1 &8334591657854256673
 GameObject:
   m_ObjectHideFlags: 0

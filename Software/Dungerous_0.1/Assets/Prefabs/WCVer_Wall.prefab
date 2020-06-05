@@ -93,6 +93,7 @@ GameObject:
   - component: {fileID: 8687396041411752045}
   - component: {fileID: 5210317727335594413}
   - component: {fileID: 7737332946143603021}
+  - component: {fileID: 3968602508276523454}
   m_Layer: 0
   m_Name: WCVer_Wall
   m_TagString: Untagged
@@ -162,3 +163,14 @@ Rigidbody2D:
   m_SleepingMode: 1
   m_CollisionDetection: 0
   m_Constraints: 0
+--- !u!210 &3968602508276523454
+SortingGroup:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8687396041411752046}
+  m_Enabled: 1
+  m_SortingLayerID: 0
+  m_SortingLayer: 0
+  m_SortingOrder: 0
