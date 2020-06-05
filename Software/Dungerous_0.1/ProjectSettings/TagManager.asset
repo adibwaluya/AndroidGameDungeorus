@@ -41,3 +41,12 @@ TagManager:
   - name: Default
     uniqueID: 0
     locked: 0
+  - name: Floor
+    uniqueID: 3170796585
+    locked: 0
+  - name: PlayableArea
+    uniqueID: 926102395
+    locked: 0
+  - name: AllChars
+    uniqueID: 3371874527
+    locked: 0
