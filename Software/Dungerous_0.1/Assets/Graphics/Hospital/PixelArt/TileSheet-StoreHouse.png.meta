@@ -8,6 +8,9 @@ TextureImporter:
   - first:
       213: 6100719713329592399
     second: TileSheet-StoreHouse_1
+  - first:
+      213: 7574180966832387912
+    second: TileSheet-StoreHouse_2
   externalObjects: {}
   serializedVersion: 11
   mipmaps:
@@ -146,7 +149,7 @@ TextureImporter:
         width: 12
         height: 26
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -154,6 +157,27 @@ TextureImporter:
       bones: []
       spriteID: f48bb3b914c1aa450800000000000000
       internalID: 6100719713329592399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileSheet-StoreHouse_2
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 133
+        width: 21
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 847b198a575ec1960800000000000000
+      internalID: 7574180966832387912
       vertices: []
       indices: 
       edges: []
