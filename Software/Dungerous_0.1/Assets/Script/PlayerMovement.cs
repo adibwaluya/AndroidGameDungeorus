@@ -4,10 +4,13 @@ using UnityEngine;
 
 public class PlayerMovement : MonoBehaviour
 {
-    public float moveSpeed = 5f;
+    public float moveSpeed = 1f;
 
     public Rigidbody2D rb;
     public Animator animator;
+
+    // Reference to Joystick
+    public Joystick joystick;
 
     // store x and y 
     Vector2 movement;
@@ -19,36 +22,52 @@ public class PlayerMovement : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        // Input
-
+        
+        /* Input from keyboard
         movement.x = Input.GetAxisRaw("Horizontal");
         movement.y = Input.GetAxisRaw("Vertical");
+        */
 
-        //float _xMov = Input.GetAxisRaw("Horizontal");
-        //float _yMov = Input.GetAxisRaw("Vertical");
+        // Input from Joystick
+        if(joystick.Horizontal >= .1f)
+        {
+            movement.x = moveSpeed;
+        } else if (joystick.Horizontal <= -.1f)
+        {
+            movement.x = -moveSpeed;
+        }
+        else
+        {
+            movement.x = 0;
 
-        // movement = movement.normalized;
-        //Vector2 movHorizontal = transform.right * _xMov;
-        //Vector2 movVertical = transform.up * _yMov;
-        //Vector2 velocity = (movHorizontal + movVertical).normalized * moveSpeed;
+
+        }
+
+        if (joystick.Vertical >= .2f)
+        {
+            movement.y = moveSpeed;
+            
+        }
+        else if (joystick.Vertical <= .2f)
+        {
+            movement.y= -moveSpeed;
+            
+        }
+        else
+        {
+            movement.y = 0;
+            
+        }
+
+        /*
         animator.SetFloat("Horizontal", movement.x);
         animator.SetFloat("Vertical", movement.y);
         animator.SetFloat("Speed", movement.sqrMagnitude);
-
-
-        /*
-        float _xMov = Input.GetAxisRaw("Horizontal");
-        float _yMov = Input.GetAxisRaw("Vertical");
-
-        Vector2 _movHorizontal = transform.right * _xMov;
-        Vector2 _movVertical = transform.up * _yMov;
-
-        Vector2 _velocity = (_movHorizontal + _movVertical).normalized * moveSpeed;
-
-        rb.MovePosition(rb.position + _velocity * Time.deltaTime);
         */
 
-        // rb.MovePosition(rb.position + velocity * Time.deltaTime);
+        animator.SetFloat("Horizontal", movement.x);
+        animator.SetFloat("Vertical", movement.y);
+        animator.SetFloat("Speed", movement.sqrMagnitude);
     }
 
     void FixedUpdate()
