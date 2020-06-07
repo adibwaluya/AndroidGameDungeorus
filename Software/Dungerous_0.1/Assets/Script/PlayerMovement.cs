@@ -10,7 +10,7 @@ public class PlayerMovement : MonoBehaviour
     public Animator animator;
 
     // Reference to Joystick
-    public Joystick joystick;
+    // public Joystick joystick;
 
     // store x and y 
     Vector2 movement;
@@ -23,12 +23,13 @@ public class PlayerMovement : MonoBehaviour
     void Update()
     {
         
-        /* Input from keyboard
+        // Input from keyboard
         movement.x = Input.GetAxisRaw("Horizontal");
         movement.y = Input.GetAxisRaw("Vertical");
-        */
+        
 
         // Input from Joystick
+        /*
         if(joystick.Horizontal >= .1f)
         {
             movement.x = moveSpeed;
@@ -58,11 +59,6 @@ public class PlayerMovement : MonoBehaviour
             movement.y = 0;
             
         }
-
-        /*
-        animator.SetFloat("Horizontal", movement.x);
-        animator.SetFloat("Vertical", movement.y);
-        animator.SetFloat("Speed", movement.sqrMagnitude);
         */
 
         animator.SetFloat("Horizontal", movement.x);

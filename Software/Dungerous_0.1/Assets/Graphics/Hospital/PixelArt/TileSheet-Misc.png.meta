@@ -14,6 +14,18 @@ TextureImporter:
   - first:
       213: 1251828046861606709
     second: TileSheet-Misc_3
+  - first:
+      213: -7630610632155540182
+    second: TileSheet-Misc_4
+  - first:
+      213: 7901349572914117570
+    second: TileSheet-Misc_5
+  - first:
+      213: 9078458817855918402
+    second: TileSheet-Misc_6
+  - first:
+      213: 6916898320643146413
+    second: TileSheet-Misc_7
   externalObjects: {}
   serializedVersion: 11
   mipmaps:
@@ -194,7 +206,7 @@ TextureImporter:
         width: 47
         height: 20
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -202,6 +214,90 @@ TextureImporter:
       bones: []
       spriteID: 53f9e05e9f26f5110800000000000000
       internalID: 1251828046861606709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileSheet-Misc_4
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 108
+        width: 94
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a25dc0b0f00aa1690800000000000000
+      internalID: -7630610632155540182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileSheet-Misc_5
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 227
+        width: 11
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2cbfabbc29b37ad60800000000000000
+      internalID: 7901349572914117570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileSheet-Misc_6
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 141
+        width: 13
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2419052f13a2dfd70800000000000000
+      internalID: 9078458817855918402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileSheet-Misc_7
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 23
+        width: 12
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da24e651062cdff50800000000000000
+      internalID: 6916898320643146413
       vertices: []
       indices: 
       edges: []
