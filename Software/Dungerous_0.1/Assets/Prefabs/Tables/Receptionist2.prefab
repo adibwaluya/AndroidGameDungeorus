@@ -59,14 +59,14 @@ PolygonCollider2D:
   m_AutoTiling: 0
   m_Points:
     m_Paths:
-    - - {x: 1.4642636, y: 0.6782341}
-      - {x: 0.63648915, y: 1.034781}
-      - {x: -0.26306462, y: 0.75445366}
+    - - {x: 1.4371852, y: 1.1114979}
+      - {x: 0.63648915, y: 1.3055706}
+      - {x: -0.45261717, y: 1.0252438}
       - {x: -1.2866359, y: 0.20011091}
       - {x: -1.4356513, y: -2.9124193}
-      - {x: -1.4633214, y: -4.045737}
-      - {x: 1.0395097, y: -4.0210958}
-      - {x: 1.5010941, y: -3.7144594}
+      - {x: -1.4633214, y: -3.4229212}
+      - {x: 0.95827234, y: -3.3982801}
+      - {x: 1.4740157, y: -3.0645647}
 --- !u!50 &1172567612128895941
 Rigidbody2D:
   serializedVersion: 4
@@ -96,8 +96,8 @@ SortingGroup:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 5374840408406965487}
   m_Enabled: 1
-  m_SortingLayerID: 0
-  m_SortingLayer: 0
+  m_SortingLayerID: -923092769
+  m_SortingLayer: 3
   m_SortingOrder: 1
 --- !u!1 &7387308808015217924
 GameObject:

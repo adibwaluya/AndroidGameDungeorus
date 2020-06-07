@@ -80,11 +80,11 @@ PolygonCollider2D:
   m_AutoTiling: 0
   m_Points:
     m_Paths:
-    - - {x: 0.27000952, y: 0.4015169}
-      - {x: -0.06459546, y: 0.26299238}
-      - {x: -0.042349577, y: 0.3250599}
-      - {x: -0.5621929, y: 0.39596558}
-      - {x: -0.7671047, y: 0.41949606}
+    - - {x: 0.8890116, y: 0.58709717}
+      - {x: 0.5853834, y: 0.6139765}
+      - {x: -0.19908583, y: 0.65617704}
+      - {x: -0.93999326, y: 0.5162091}
+      - {x: -0.96593463, y: 0.32436228}
       - {x: -0.7570388, y: -0.0073695183}
       - {x: -0.4899422, y: -0.07575035}
       - {x: -0.46588898, y: -0.5570986}
@@ -99,9 +99,9 @@ SortingGroup:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1497020482433164694}
   m_Enabled: 1
-  m_SortingLayerID: 0
-  m_SortingLayer: 0
-  m_SortingOrder: 1
+  m_SortingLayerID: -923092769
+  m_SortingLayer: 3
+  m_SortingOrder: 0
 --- !u!1 &3006448009679779802
 GameObject:
   m_ObjectHideFlags: 0

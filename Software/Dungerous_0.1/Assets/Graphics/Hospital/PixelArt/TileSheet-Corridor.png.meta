@@ -11,6 +11,12 @@ TextureImporter:
   - first:
       213: -8832561032005961074
     second: TileSheet-Corridor_2
+  - first:
+      213: -3037472647811177695
+    second: TileSheet-Corridor_3
+  - first:
+      213: 5171297405702003459
+    second: TileSheet-Corridor_4
   externalObjects: {}
   serializedVersion: 11
   mipmaps:
@@ -147,9 +153,9 @@ TextureImporter:
         x: 122
         y: 23
         width: 15
-        height: 33
+        height: 25
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -166,11 +172,11 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 143
-        y: 22
+        y: 15
         width: 15
         height: 33
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -178,6 +184,48 @@ TextureImporter:
       bones: []
       spriteID: e8ab35ec9807c6580800000000000000
       internalID: -8832561032005961074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileSheet-Corridor_3
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 48
+        width: 15
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 123ef3458bab8d5d0800000000000000
+      internalID: -3037472647811177695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileSheet-Corridor_4
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 48
+        width: 15
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30b54ce779324c740800000000000000
+      internalID: 5171297405702003459
       vertices: []
       indices: 
       edges: []

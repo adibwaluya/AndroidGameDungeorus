@@ -17,6 +17,15 @@ TextureImporter:
   - first:
       213: -3243271228550202827
     second: TileSheet-Cafeteria_4
+  - first:
+      213: 3375699791128616880
+    second: TileSheet-Cafeteria_5
+  - first:
+      213: -4706737005510265210
+    second: TileSheet-Cafeteria_6
+  - first:
+      213: -120138906138233709
+    second: TileSheet-Cafeteria_7
   externalObjects: {}
   serializedVersion: 11
   mipmaps:
@@ -152,8 +161,8 @@ TextureImporter:
         serializedVersion: 2
         x: 172
         y: 29
-        width: 39
-        height: 83
+        width: 37
+        height: 41
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -174,9 +183,9 @@ TextureImporter:
         x: 85
         y: 60
         width: 29
-        height: 20
+        height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -195,9 +204,9 @@ TextureImporter:
         x: 126
         y: 60
         width: 29
-        height: 20
+        height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -218,7 +227,7 @@ TextureImporter:
         width: 16
         height: 10
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -226,6 +235,69 @@ TextureImporter:
       bones: []
       spriteID: 53a350050069df2d0800000000000000
       internalID: -3243271228550202827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileSheet-Cafeteria_5
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 71
+        width: 39
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0bfd4962315e8de20800000000000000
+      internalID: 3375699791128616880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileSheet-Cafeteria_6
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 76
+        width: 29
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 686ff5f71af4eaeb0800000000000000
+      internalID: -4706737005510265210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileSheet-Cafeteria_7
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 76
+        width: 29
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3943de72d4e255ef0800000000000000
+      internalID: -120138906138233709
       vertices: []
       indices: 
       edges: []

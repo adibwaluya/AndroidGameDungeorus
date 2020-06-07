@@ -93,6 +93,7 @@ GameObject:
   - component: {fileID: 488174117507142366}
   - component: {fileID: 6396844814704711790}
   - component: {fileID: 7104799148901353434}
+  - component: {fileID: 8116193264646787664}
   m_Layer: 0
   m_Name: Cupboard2
   m_TagString: Untagged
@@ -162,3 +163,14 @@ Rigidbody2D:
   m_SleepingMode: 1
   m_CollisionDetection: 0
   m_Constraints: 0
+--- !u!210 &8116193264646787664
+SortingGroup:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6574165681310824919}
+  m_Enabled: 1
+  m_SortingLayerID: -923092769
+  m_SortingLayer: 3
+  m_SortingOrder: 0

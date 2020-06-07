@@ -11,6 +11,9 @@ TextureImporter:
   - first:
       213: -1266079745188235715
     second: TileSheet-Misc_2
+  - first:
+      213: 1251828046861606709
+    second: TileSheet-Misc_3
   externalObjects: {}
   serializedVersion: 11
   mipmaps:
@@ -126,7 +129,7 @@ TextureImporter:
         x: 300
         y: 148
         width: 47
-        height: 83
+        height: 63
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -170,7 +173,7 @@ TextureImporter:
         width: 12
         height: 23
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -178,6 +181,27 @@ TextureImporter:
       bones: []
       spriteID: d36fcb20e2bfd6ee0800000000000000
       internalID: -1266079745188235715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileSheet-Misc_3
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 211
+        width: 47
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53f9e05e9f26f5110800000000000000
+      internalID: 1251828046861606709
       vertices: []
       indices: 
       edges: []

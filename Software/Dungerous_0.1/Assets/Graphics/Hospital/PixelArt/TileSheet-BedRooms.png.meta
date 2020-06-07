@@ -20,6 +20,12 @@ TextureImporter:
   - first:
       213: 6136954709350663077
     second: TileSheet-BedRooms_5
+  - first:
+      213: 8137567652891485653
+    second: TileSheet-BedRooms_6
+  - first:
+      213: -2216591279392105788
+    second: TileSheet-BedRooms_7
   externalObjects: {}
   serializedVersion: 11
   mipmaps:
@@ -135,7 +141,7 @@ TextureImporter:
         x: 42
         y: 80
         width: 30
-        height: 60
+        height: 37
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -219,7 +225,7 @@ TextureImporter:
         x: 190
         y: 168
         width: 40
-        height: 40
+        height: 21
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -242,7 +248,7 @@ TextureImporter:
         width: 24
         height: 43
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -250,6 +256,48 @@ TextureImporter:
       bones: []
       spriteID: 5a3c18d0bc7da2550800000000000000
       internalID: 6136954709350663077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileSheet-BedRooms_6
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 117
+        width: 30
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d56e466aa27ee070800000000000000
+      internalID: 8137567652891485653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileSheet-BedRooms_7
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 189
+        width: 40
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4cada93b9f51d31e0800000000000000
+      internalID: -2216591279392105788
       vertices: []
       indices: 
       edges: []
