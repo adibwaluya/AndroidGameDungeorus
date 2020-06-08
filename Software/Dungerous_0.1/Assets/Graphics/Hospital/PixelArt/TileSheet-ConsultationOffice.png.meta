@@ -14,6 +14,27 @@ TextureImporter:
   - first:
       213: 6583959766986422054
     second: TileSheet-ConsultationOffice_3
+  - first:
+      213: -4702834465152616454
+    second: TileSheet-ConsultationOffice_4
+  - first:
+      213: -8542510363570664056
+    second: TileSheet-ConsultationOffice_5
+  - first:
+      213: 4001653988474507492
+    second: TileSheet-ConsultationOffice_6
+  - first:
+      213: 1609707090801537557
+    second: TileSheet-ConsultationOffice_7
+  - first:
+      213: -1618868519404735690
+    second: TileSheet-ConsultationOffice_8
+  - first:
+      213: 9129299362185672178
+    second: TileSheet-ConsultationOffice_9
+  - first:
+      213: 4434805723542758869
+    second: TileSheet-ConsultationOffice_10
   externalObjects: {}
   serializedVersion: 11
   mipmaps:
@@ -194,7 +215,7 @@ TextureImporter:
         width: 28
         height: 39
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -202,6 +223,153 @@ TextureImporter:
       bones: []
       spriteID: 62770b6568cee5b50800000000000000
       internalID: 6583959766986422054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileSheet-ConsultationOffice_4
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 187
+        width: 14
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af73d1b78fc2cbeb0800000000000000
+      internalID: -4702834465152616454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileSheet-ConsultationOffice_5
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 193
+        width: 29
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88d0741a518e27980800000000000000
+      internalID: -8542510363570664056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileSheet-ConsultationOffice_6
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 193
+        width: 27
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e05c01d91bb88730800000000000000
+      internalID: 4001653988474507492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileSheet-ConsultationOffice_7
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 193
+        width: 27
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51237ab0214d65610800000000000000
+      internalID: 1609707090801537557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileSheet-ConsultationOffice_8
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 193
+        width: 26
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63371d2a8af9889e0800000000000000
+      internalID: -1618868519404735690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileSheet-ConsultationOffice_9
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 187
+        width: 14
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f5f64b9669c1be70800000000000000
+      internalID: 9129299362185672178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileSheet-ConsultationOffice_10
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 187
+        width: 14
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d5a2a71f489b8d30800000000000000
+      internalID: 4434805723542758869
       vertices: []
       indices: 
       edges: []

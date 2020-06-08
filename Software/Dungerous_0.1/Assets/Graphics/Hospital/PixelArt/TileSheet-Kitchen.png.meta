@@ -11,6 +11,9 @@ TextureImporter:
   - first:
       213: -7221631983848883315
     second: TileSheet-Kitchen_2
+  - first:
+      213: 1017351595748183365
+    second: TileSheet-Kitchen_3
   externalObjects: {}
   serializedVersion: 11
   mipmaps:
@@ -147,7 +150,7 @@ TextureImporter:
         x: 206
         y: 107
         width: 28
-        height: 82
+        height: 76
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -170,7 +173,7 @@ TextureImporter:
         width: 23
         height: 35
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -178,6 +181,27 @@ TextureImporter:
       bones: []
       spriteID: d8b7618f8fb97cb90800000000000000
       internalID: -7221631983848883315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileSheet-Kitchen_3
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 183
+        width: 28
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54d4f3cd2eb5e1e00800000000000000
+      internalID: 1017351595748183365
       vertices: []
       indices: 
       edges: []

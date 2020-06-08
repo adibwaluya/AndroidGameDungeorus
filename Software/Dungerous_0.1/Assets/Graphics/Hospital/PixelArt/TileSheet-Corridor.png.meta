@@ -17,6 +17,15 @@ TextureImporter:
   - first:
       213: 5171297405702003459
     second: TileSheet-Corridor_4
+  - first:
+      213: -1633205314930964613
+    second: TileSheet-Corridor_5
+  - first:
+      213: 1267839142298973503
+    second: TileSheet-Corridor_6
+  - first:
+      213: 6838080167400941688
+    second: TileSheet-Corridor_7
   externalObjects: {}
   serializedVersion: 11
   mipmaps:
@@ -197,7 +206,7 @@ TextureImporter:
         width: 15
         height: 8
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -218,7 +227,7 @@ TextureImporter:
         width: 15
         height: 8
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -226,6 +235,69 @@ TextureImporter:
       bones: []
       spriteID: 30b54ce779324c740800000000000000
       internalID: 5171297405702003459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileSheet-Corridor_5
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 80
+        width: 44
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b77824e4b60b559e0800000000000000
+      internalID: -1633205314930964613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileSheet-Corridor_6
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 40
+        width: 24
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f35f01d8bf4489110800000000000000
+      internalID: 1267839142298973503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileSheet-Corridor_7
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 97
+        width: 44
+        height: 3
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 878a39bbeadb5ee50800000000000000
+      internalID: 6838080167400941688
       vertices: []
       indices: 
       edges: []
