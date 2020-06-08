@@ -11,6 +11,7 @@ GameObject:
   - component: {fileID: 6092875155328429963}
   - component: {fileID: 2144736949526180774}
   - component: {fileID: 5255561071020864851}
+  - component: {fileID: 525194600041660330}
   m_Layer: 0
   m_Name: Candle
   m_TagString: Untagged
@@ -102,3 +103,14 @@ Animator:
   m_HasTransformHierarchy: 1
   m_AllowConstantClipSamplingOptimization: 1
   m_KeepAnimatorControllerStateOnDisable: 0
+--- !u!210 &525194600041660330
+SortingGroup:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 9128718388353108194}
+  m_Enabled: 1
+  m_SortingLayerID: 926102395
+  m_SortingLayer: 2
+  m_SortingOrder: 0
