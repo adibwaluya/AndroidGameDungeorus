@@ -8,6 +8,7 @@ public class CameraController : MonoBehaviour
     public float smoothing;
     public Vector2 minPosition;
     public Vector2 maxPosition;
+
     // Start is called before the first frame update
     void Start()
     {
@@ -22,8 +23,14 @@ public class CameraController : MonoBehaviour
 
         if(transform.position != target.position)
         {
+            Vector3 targetPosition = new Vector3(target.position.x, target.position.y, transform.position.z);
+
+            // Clamp arguments: what we're going to be clamping, two positions that we want to clamp in between 
+            targetPosition.x = Mathf.Clamp(targetPosition.x, minPosition.x, maxPosition.x);
+            targetPosition.y = Mathf.Clamp(targetPosition.y, minPosition.y, maxPosition.y);
+
             // Parameter: starting position, ending position, what speed we want to use
-            transform.position = Vector3.Lerp(transform.position, target.transform.position, smoothing);
+            transform.position = Vector3.Lerp(transform.position, targetPosition, smoothing);
         }
     }
 }
