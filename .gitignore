@@ -33,7 +33,7 @@ ExportedObj/
 sysinfo.txt
 
 # Builds
-*.apk
+# *.apk
 *.unitypackage
 
 # Crashlytics generated file
@@ -54,7 +54,7 @@ Assets/StreamingAssets/crashlytics-build.properties
 sysinfo.txt
 *.stackdump
 /Assets/AssetStoreTools*
-*.apk
+# *.apk
 *.unitypackage
  
 # ===================================== #
