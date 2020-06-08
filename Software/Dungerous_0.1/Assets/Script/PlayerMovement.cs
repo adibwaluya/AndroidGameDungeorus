@@ -4,13 +4,13 @@ using UnityEngine;
 
 public class PlayerMovement : MonoBehaviour
 {
-    public float moveSpeed = 1f;
+    public float moveSpeed = .2f;
 
     public Rigidbody2D rb;
     public Animator animator;
 
     // Reference to Joystick
-    // public Joystick joystick;
+    public Joystick joystick;
 
     // store x and y 
     Vector2 movement;
@@ -22,42 +22,40 @@ public class PlayerMovement : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        
+
         // Input from keyboard
+        /*
         movement.x = Input.GetAxisRaw("Horizontal");
         movement.y = Input.GetAxisRaw("Vertical");
-        
+        */
 
-        // Input from Joystick
+        // Input from joystick
+        movement.x = joystick.Horizontal;
+        movement.y = joystick.Vertical;
+
+        // Joystick Optimatization but incomplete
         /*
-        if(joystick.Horizontal >= .1f)
+        if (joystick.Horizontal >= .2f || joystick.Vertical == 0)
         {
             movement.x = moveSpeed;
-        } else if (joystick.Horizontal <= -.1f)
+            movement.y = 0;
+        } else if (joystick.Horizontal <= -.2f || joystick.Vertical == 0)
         {
             movement.x = -moveSpeed;
+            movement.y = 0;
+        } else if (joystick.Horizontal == 0 || joystick.Vertical >= .2f)
+        {
+            movement.x = 0;
+            movement.y = moveSpeed;
+        } else if (joystick.Horizontal == 0 || joystick.Vertical <= .2f)
+        {
+            movement.x = 0;
+            movement.y = -moveSpeed;
         }
         else
         {
             movement.x = 0;
-
-
-        }
-
-        if (joystick.Vertical >= .2f)
-        {
-            movement.y = moveSpeed;
-            
-        }
-        else if (joystick.Vertical <= .2f)
-        {
-            movement.y= -moveSpeed;
-            
-        }
-        else
-        {
             movement.y = 0;
-            
         }
         */
 
