@@ -11703,8 +11703,8 @@ MonoBehaviour:
   m_outlineColor:
     serializedVersion: 2
     rgba: 4278190080
-  m_fontSize: 42
-  m_fontSizeBase: 42
+  m_fontSize: 58
+  m_fontSizeBase: 58
   m_fontWeight: 400
   m_enableAutoSizing: 0
   m_fontSizeMin: 18
@@ -11720,7 +11720,7 @@ MonoBehaviour:
   m_enableWordWrapping: 1
   m_wordWrappingRatios: 0.4
   m_overflowMode: 0
-  m_firstOverflowCharacterIndex: -1
+  m_firstOverflowCharacterIndex: 0
   m_linkedTextComponent: {fileID: 0}
   m_isLinkedTextComponent: 0
   m_isTextTruncated: 0
@@ -14958,8 +14958,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 5, y: -7.5}
-  m_SizeDelta: {x: 267.55597, y: 68.96629}
+  m_AnchoredPosition: {x: 3.6, y: 132.29997}
+  m_SizeDelta: {x: 324.2788, y: 82.471756}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &604917931
 MonoBehaviour:
@@ -17653,6 +17653,8 @@ GameObject:
   - component: {fileID: 697097226}
   - component: {fileID: 697097228}
   - component: {fileID: 697097227}
+  - component: {fileID: 697097229}
+  - component: {fileID: 697097230}
   m_Layer: 5
   m_Name: PauseMenu
   m_TagString: Untagged
@@ -17667,7 +17669,7 @@ RectTransform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 697097225}
-  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
   m_LocalPosition: {x: 0, y: 0, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children:
@@ -17676,12 +17678,12 @@ RectTransform:
   - {fileID: 1357167056}
   - {fileID: 1656846010}
   m_Father: {fileID: 989737306}
-  m_RootOrder: 1
+  m_RootOrder: 2
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 1, y: 1}
-  m_AnchoredPosition: {x: 0, y: 0}
-  m_SizeDelta: {x: 0, y: 0}
+  m_AnchoredPosition: {x: 0, y: -266.1}
+  m_SizeDelta: {x: 0, y: 532.3325}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &697097227
 MonoBehaviour:
@@ -17720,6 +17722,39 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 697097225}
   m_CullTransparentMesh: 0
+--- !u!95 &697097229
+Animator:
+  serializedVersion: 3
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 697097225}
+  m_Enabled: 1
+  m_Avatar: {fileID: 0}
+  m_Controller: {fileID: 9100000, guid: 17304cdf093e442b3be045cdfbf21fff, type: 2}
+  m_CullingMode: 0
+  m_UpdateMode: 2
+  m_ApplyRootMotion: 0
+  m_LinearVelocityBlending: 0
+  m_WarningMessage: 
+  m_HasTransformHierarchy: 1
+  m_AllowConstantClipSamplingOptimization: 1
+  m_KeepAnimatorControllerStateOnDisable: 0
+--- !u!114 &697097230
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 697097225}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 89ba048370cb441a6ba4064da424bd0e, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  pauseMenuUi: {fileID: 0}
+  transitionAnime: {fileID: 697097229}
 --- !u!1001 &699088008
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -33114,7 +33149,6 @@ GameObject:
   - component: {fileID: 989737305}
   - component: {fileID: 989737304}
   - component: {fileID: 989737303}
-  - component: {fileID: 989737307}
   m_Layer: 5
   m_Name: Canvas
   m_TagString: Untagged
@@ -33194,8 +33228,8 @@ RectTransform:
   m_LocalScale: {x: 0, y: 0, z: 0}
   m_Children:
   - {fileID: 1963662441}
-  - {fileID: 697097226}
   - {fileID: 1550174085}
+  - {fileID: 697097226}
   m_Father: {fileID: 0}
   m_RootOrder: 4
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
@@ -33204,19 +33238,6 @@ RectTransform:
   m_AnchoredPosition: {x: 0, y: 0}
   m_SizeDelta: {x: 0, y: 0}
   m_Pivot: {x: 0, y: 0}
---- !u!114 &989737307
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 989737302}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 89ba048370cb441a6ba4064da424bd0e, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  pauseMenuUi: {fileID: 697097225}
 --- !u!1001 &993438500
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -41852,8 +41873,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 6, y: -133}
-  m_SizeDelta: {x: 129.49963, y: 46.457092}
+  m_AnchoredPosition: {x: 15, y: -108}
+  m_SizeDelta: {x: 175.41806, y: 46.457092}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1357167057
 MonoBehaviour:
@@ -41897,7 +41918,18 @@ MonoBehaviour:
   m_TargetGraphic: {fileID: 1357167058}
   m_OnClick:
     m_PersistentCalls:
-      m_Calls: []
+      m_Calls:
+      - m_Target: {fileID: 697097230}
+        m_MethodName: QuitGame
+        m_Mode: 1
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
 --- !u!114 &1357167058
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -43896,8 +43928,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 1, y: 1}
-  m_AnchoredPosition: {x: 0, y: -6}
-  m_SizeDelta: {x: 0, y: 0}
+  m_AnchoredPosition: {x: -11, y: -2.9994}
+  m_SizeDelta: {x: -86.43466, y: -5.9988937}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1416716929
 MonoBehaviour:
@@ -43961,8 +43993,8 @@ MonoBehaviour:
   m_outlineColor:
     serializedVersion: 2
     rgba: 4278190080
-  m_fontSize: 42
-  m_fontSizeBase: 42
+  m_fontSize: 58
+  m_fontSizeBase: 58
   m_fontWeight: 400
   m_enableAutoSizing: 0
   m_fontSizeMin: 18
@@ -46943,7 +46975,6 @@ GameObject:
   - component: {fileID: 1550174088}
   - component: {fileID: 1550174087}
   - component: {fileID: 1550174086}
-  - component: {fileID: 1550174089}
   m_Layer: 5
   m_Name: Button
   m_TagString: Untagged
@@ -46963,7 +46994,7 @@ RectTransform:
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 989737306}
-  m_RootOrder: 2
+  m_RootOrder: 1
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0.5}
   m_AnchorMax: {x: 0, y: 0.5}
@@ -47061,19 +47092,6 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1550174084}
   m_CullTransparentMesh: 0
---- !u!114 &1550174089
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1550174084}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 89ba048370cb441a6ba4064da424bd0e, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  pauseMenuUi: {fileID: 697097225}
 --- !u!1001 &1554241072
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -50182,8 +50200,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 9, y: -72.3}
-  m_SizeDelta: {x: 202.56155, y: 60.545227}
+  m_AnchoredPosition: {x: 29, y: 2.9999695}
+  m_SizeDelta: {x: 351.12112, y: 67.74347}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1648780687
 MonoBehaviour:
@@ -50554,8 +50572,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 7, y: 116}
-  m_SizeDelta: {x: 265.5, y: 148.5}
+  m_AnchoredPosition: {x: -46.8, y: 394.9}
+  m_SizeDelta: {x: 976.69714, y: 516.33344}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1656846011
 MonoBehaviour:
@@ -61231,8 +61249,8 @@ MonoBehaviour:
   m_outlineColor:
     serializedVersion: 2
     rgba: 4278190080
-  m_fontSize: 64
-  m_fontSizeBase: 64
+  m_fontSize: 80
+  m_fontSizeBase: 80
   m_fontWeight: 400
   m_enableAutoSizing: 0
   m_fontSizeMin: 18
@@ -61248,7 +61266,7 @@ MonoBehaviour:
   m_enableWordWrapping: 1
   m_wordWrappingRatios: 0.4
   m_overflowMode: 0
-  m_firstOverflowCharacterIndex: -1
+  m_firstOverflowCharacterIndex: 0
   m_linkedTextComponent: {fileID: 0}
   m_isLinkedTextComponent: 0
   m_isTextTruncated: 0
