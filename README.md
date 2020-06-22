@@ -18,6 +18,14 @@ Daher wollen wir eine Gaming-App entwickeln, mit der man sich nicht nur
 die Zeit vertreiben kann, sondern auch spielerisch lernen kann, wie man 
 die Hygieneregeln richtig einhält.
 
+## Was gibt es in diesem Repository
+Im 'Dokumentation' befinden sich die Hefte, die zum Konzipieren und zur 
+Entwicklung des Spiels geschrieben wurden, und die Abbildungen, die im Spiel zu 
+sehen sind.
+Im 'Software' gibt es nicht nur die Unity Project Datei, sondern auch die .APK,
+die in jedem Sprint aktualisiert wird.
+
+
 ## Anweisungen von Herrn Prof. Mohammad Abuosba
 Hallo zusammen,
 
