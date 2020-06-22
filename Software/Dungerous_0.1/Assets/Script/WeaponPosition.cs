@@ -4,23 +4,30 @@ using UnityEngine;
 using System;
 public class WeaponPosition : MonoBehaviour
 {
-    //private Vector3 origPos;
-    //private Vector3 moveDirection;
+    private Vector3 origPos;
+    private Vector3 moveDirection;
 
-    public static float moveX;
-    public static float moveY;
+    private float posX;
+    private float posY;
+
+    public GameObject Parent;
+    public GameObject Weapon;
+
     void Start()
     {
-        
+        Parent = new GameObject();
+        Weapon = new GameObject();
     }
 
     // Update is called once per frame
     void FixedUpdate()
     {
-        ////Getting the current direction the player is facing
-        //moveDirection = gameObject.transform.position - origPos;
+        //Getting the current direction the player is facing
+        moveDirection = gameObject.transform.position - origPos;
+        origPos = transform.position;
 
-        //origPos = transform.position;
+        posX = gameObject.transform.position.x - origPos.x;
+        posY = gameObject.transform.position.y - origPos.y;
 
         //if (moveDirection != Vector3.zero)
         //{
@@ -32,14 +39,13 @@ public class WeaponPosition : MonoBehaviour
         //    transform.rotation = Quaternion.AngleAxis(180, Vector3.forward);
         //}
 
-        moveX = PlayerMovement.moveX;
-        moveY = PlayerMovement.moveY;
-
-        //if (moveX == -1)
-        //{
-        //    transform.localPosition = new Vector3((transform.position.x - 0.01f), (transform.position.y - 0.01f), 0);
-        //    transform.Rotate(0, 0, 90);
-        //}
+        if (posX < 0 )
+        {
+            Weapon.transform.parent = Parent.transform;
+            Weapon.transform.localPosition = new Vector3(10,20,0);
+        }
+        Weapon.transform.parent = Parent.transform;
+        Weapon.transform.localPosition = new Vector3(10, 20, 0);
 
     }
 }

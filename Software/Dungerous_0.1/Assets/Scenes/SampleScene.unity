@@ -29390,6 +29390,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ea9d96220da57534a99c87fb8b963cfd, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  Parent: {fileID: 105129866}
+  Weapon: {fileID: 843683429}
 --- !u!1001 &845210555
 PrefabInstance:
   m_ObjectHideFlags: 0
