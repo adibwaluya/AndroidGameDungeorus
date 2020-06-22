@@ -24,10 +24,10 @@ public class PlayerMovement : MonoBehaviour
     {
 
         // Input from keyboard
-        /*
-        movement.x = Input.GetAxisRaw("Horizontal");
-        movement.y = Input.GetAxisRaw("Vertical");
-        */
+        
+        // movement.x = Input.GetAxisRaw("Horizontal");
+        // movement.y = Input.GetAxisRaw("Vertical");
+        
 
         // Input from joystick
         movement.x = joystick.Horizontal;
