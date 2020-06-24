@@ -17,6 +17,11 @@ public class WeaponPosition : MonoBehaviour
     {
         Parent = new GameObject();
         Weapon = new GameObject();
+
+        Transform childTransform = transform.Find("Weapon");
+        Debug.Log(childTransform.position);
+        Debug.Log(childTransform.localPosition);
+        childTransform.position = new Vector3(0,0,0);
     }
 
     // Update is called once per frame
@@ -39,13 +44,14 @@ public class WeaponPosition : MonoBehaviour
         //    transform.rotation = Quaternion.AngleAxis(180, Vector3.forward);
         //}
 
-        if (posX < 0 )
-        {
-            Weapon.transform.parent = Parent.transform;
-            Weapon.transform.localPosition = new Vector3(10,20,0);
-        }
-        Weapon.transform.parent = Parent.transform;
-        Weapon.transform.localPosition = new Vector3(10, 20, 0);
+        //if (posX < 0 )
+        //{
+        //    Weapon.transform.parent = Parent.transform;
+        //    Weapon.transform.localPosition = new Vector3(10,20,0);
+        //}
+        //Weapon.transform.parent = Parent.transform;
+        //Weapon.transform.localPosition = Vector3.zero;
+        //Weapon.transform.localPosition = new Vector3(100, 200, 0);
 
     }
 }
