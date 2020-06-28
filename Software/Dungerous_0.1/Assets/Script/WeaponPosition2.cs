@@ -18,7 +18,7 @@ public class WeaponPosition2 : MonoBehaviour
         childTransform = transform.Find("Weapon");
         Debug.Log(childTransform.position);
         Debug.Log(childTransform.localPosition);
-        childTransform.position = transform.position + new Vector3(-1.22f, -0.45f, 0);
+        childTransform.position = transform.position + new Vector3(-1.22f, -1.45f, 0);
     }
 
     // Update is called once per frame
@@ -27,16 +27,16 @@ public class WeaponPosition2 : MonoBehaviour
 
         //Getting the current direction the player is facing
         moveDirection = gameObject.transform.position - origPos;
+        var localDirection = transform.InverseTransformDirection(moveDirection);
         origPos = transform.position;
 
         posX = gameObject.transform.position.x - origPos.x;
         posY = gameObject.transform.position.y - origPos.y;
 
-        if (true)
+        if (transform.position.y < origPos.y)
         {
             //Weapon position for down-movement
             childTransform.position = transform.position + new Vector3(-0.22f, -0.45f, 0);
-            //childTransform.rotation = Quaternion.AngleAxis(90, new Vector3(1,0,0));
         }
     }
 }
