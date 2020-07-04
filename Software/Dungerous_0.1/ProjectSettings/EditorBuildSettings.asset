@@ -9,7 +9,10 @@ EditorBuildSettings:
     path: Assets/Scenes/MainMenu.unity
     guid: 3cc2cc3dedfc44c3dad5f1a6e483a3eb
   - enabled: 1
-    path: Assets/Scenes/SampleScene.unity
+    path: Assets/Scenes/CharSelScene.unity
+    guid: edc6d07fa54af4593a2429ea44bd09b0
+  - enabled: 1
+    path: Assets/Scenes/PlayerOneScene.unity
     guid: 2cda990e2423bbf4892e6590ba056729
   - enabled: 0
     path: Assets/Scenes/AdibsScene.unity
