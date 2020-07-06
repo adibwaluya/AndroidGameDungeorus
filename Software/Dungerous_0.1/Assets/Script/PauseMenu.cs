@@ -19,7 +19,7 @@ public class PauseMenu : MonoBehaviour
     {
         transitionAnime.SetTrigger("end");
         yield return new WaitForSeconds(1.5f);
-        SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex - 1);
+        SceneManager.LoadScene("MainMenu");
     }
 
     void Update()
