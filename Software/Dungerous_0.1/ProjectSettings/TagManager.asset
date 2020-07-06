@@ -6,6 +6,7 @@ TagManager:
   tags:
   - Enemy
   - Buff1
+  - Character
   layers:
   - Default
   - TransparentFX
