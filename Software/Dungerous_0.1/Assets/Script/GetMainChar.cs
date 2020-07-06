@@ -31,9 +31,11 @@ public class GetMainChar : MonoBehaviour
     public void ToggleLeft()
     {
 
-        index--;
+        index = 1;
+        /*
         if (index < 0)
             index = characterList.Length - 1;
+        */
 
         // Toggle on the new model
         characterList[index].SetActive(true);
@@ -42,9 +44,11 @@ public class GetMainChar : MonoBehaviour
     public void ToggleRight()
     {
 
-        index++;
+        index = 0;
+        /*
         if (index == characterList.Length)
             index = 0;
+        */
 
         // Toggle on the new model
         characterList[index].SetActive(true);
