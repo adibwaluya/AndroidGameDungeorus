@@ -8,7 +8,7 @@ public class Shooting : MonoBehaviour
     public GameObject bulletPrefab;
 
 
-    public float bulletForce = 20f;
+    public float bulletForce = 1f;
     private Vector2 screenBounds;
     private Vector3 origPos;
     private Vector3 moveDirection;
@@ -17,6 +17,10 @@ public class Shooting : MonoBehaviour
     {
         //Getting the screensize
         screenBounds = Camera.main.ScreenToWorldPoint(new Vector3(Screen.width, Screen.height, Camera.main.transform.position.z));
+        bulletPrefab =
+            Resources.Load(
+                "G:\\DungeorusRepo\\computerspiel\\Software\\Dungerous_0.1\\Assets\\PowerBullet.prefab") as GameObject;
+        
     }
 
     // Update is called once per frame

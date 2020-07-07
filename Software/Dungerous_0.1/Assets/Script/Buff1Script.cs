@@ -18,7 +18,7 @@ public class Buff1Script : MonoBehaviour
 
     private void OnTriggerEnter2D(Collider2D collision)
     {
-        if(collision.gameObject.tag.Equals("Player"))
+        if(collision.gameObject.tag.Equals("Character"))
         {
             Destroy(item);
         }
