@@ -56,8 +56,18 @@ public class GetMainChar : MonoBehaviour
 
     public void PlayCharButton()
     {
-        PlayerPrefs.SetInt("CharacterSelected", index);
-        SceneManager.LoadScene("PlayerOneScene");
+        if(characterList[index] == characterList[1])
+        {
+            PlayerPrefs.SetInt("CharacterSelected", index);
+            SceneManager.LoadScene("PlayerOneScene");
+        }
+        if (characterList[index] == characterList[0])
+        {
+            PlayerPrefs.SetInt("CharacterSelected", index);
+            SceneManager.LoadScene("PlayerTwoScene");
+        }
+        //PlayerPrefs.SetInt("CharacterSelected", index);
+        //SceneManager.LoadScene("PlayerOneScene");
     }
 
 }
