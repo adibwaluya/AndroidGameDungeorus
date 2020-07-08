@@ -4,13 +4,16 @@ using UnityEngine;
 
 public class WeaponPosition2 : MonoBehaviour
 {
+
     private Transform childTransform;
 
     private Vector3 origPos;
     private Vector3 moveDirection;
 
-    private float posX;
-    private float posY;
+    private float old_posY;
+    private float old_posX;
+
+  
 
     // Start is called before the first frame update
     void Start()
@@ -18,7 +21,14 @@ public class WeaponPosition2 : MonoBehaviour
         childTransform = transform.Find("Weapon");
         Debug.Log(childTransform.position);
         Debug.Log(childTransform.localPosition);
-        childTransform.position = transform.position + new Vector3(-0.22f, -0.55f, 0);
+        childTransform.position = transform.position + new Vector3(-0.22f, -0.45f, 0);
+    }
+
+    void Update()
+    {
+        old_posY = gameObject.transform.position.y;
+        old_posX = gameObject.transform.position.x;
+
     }
 
     // Update is called once per frame
@@ -30,15 +40,29 @@ public class WeaponPosition2 : MonoBehaviour
         var localDirection = transform.InverseTransformDirection(moveDirection);
         origPos = transform.position;
 
-        posX = gameObject.transform.position.x - origPos.x;
-        posY = gameObject.transform.position.y - origPos.y;
 
+
+        //Debug.Log(transform.position.y);
 
         //Muss noch korrigiert werden, damit sich die Waffenposition ändert
-        if (transform.position.y < origPos.y)
+        if (old_posY > transform.position.y )
         {
-            //Weapon position for down-movement
-            childTransform.position = transform.position + new Vector3(-0.22f, -0.45f, 0);
+            //Weapon position for down-movement                         
+            childTransform.position = transform.position + new Vector3(0f, -0.55f, 0);
+            childTransform.rotation = Quaternion.AngleAxis(180f, Vector3.forward);
         }
+
+        if (old_posY < transform.position.y)
+        {
+            //Weapon position for up-movement
+            childTransform.position = transform.position + new Vector3(0f, 0.3f, 0);
+            childTransform.rotation = Quaternion.AngleAxis(0f, Vector3.forward);
+        }
+
+
+        old_posX = gameObject.transform.position.x;
+        old_posY = gameObject.transform.position.y;
+
+
     }
 }

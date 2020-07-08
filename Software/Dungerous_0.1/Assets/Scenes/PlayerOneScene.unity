@@ -41925,6 +41925,7 @@ GameObject:
   - component: {fileID: 1341666924}
   - component: {fileID: 1341666925}
   - component: {fileID: 1341666926}
+  - component: {fileID: 1341666927}
   m_Layer: 0
   m_Name: Dummy
   m_TagString: Character
@@ -42103,6 +42104,18 @@ MonoBehaviour:
   currentHealth: 100
   healthBar: {fileID: 1038218146}
   collision: {fileID: 1341666924}
+--- !u!114 &1341666927
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1341666918}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 874d9e3fc62e41549b193adc54ae9b93, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!4 &1349287803 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 7577934763297835895, guid: 5b71abb548a7a438aa5859681983cf1a,
