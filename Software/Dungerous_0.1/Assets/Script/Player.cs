@@ -10,6 +10,8 @@ public class Player : MonoBehaviour
 
     public HealthBar healthBar;
 
+    public Collider2D collision;
+
     // Start is called before the first frame update
     void Start()
     {
@@ -18,11 +20,18 @@ public class Player : MonoBehaviour
     }
 
     // Update is called once per frame
-    void Update()
+    void FixedUpdate()
     {
         if (Input.GetKeyDown(KeyCode.Space))
         {
             TakeDamage(20);
+        }
+
+        OnTriggerEnter2D(collision);
+        OnCollisionEnter(collision);
+        if (currentHealth <= 0)
+        {
+            Destroy(gameObject);
         }
     }
 
@@ -30,5 +39,22 @@ public class Player : MonoBehaviour
     {
         currentHealth -= damage;
         healthBar.SetHealth(currentHealth);
+    }
+
+    private void OnTriggerEnter2D(Collider2D collision)
+    {
+        if (collision.gameObject.tag.Equals("Enemy"))
+        {
+            TakeDamage(10);
+        }
+
+    }
+
+    void OnCollisionEnter(Collider2D collider)
+    {
+        if (collision.gameObject.tag.Equals("Enemy"))
+        {
+            TakeDamage(10);
+        }
     }
 }

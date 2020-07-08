@@ -6,6 +6,8 @@ public class Shooting : MonoBehaviour
 {
     public Transform firePoint;
     public GameObject bulletPrefab;
+    public GameObject powerBulletPrefab;
+    private bool powerItem = false;
 
 
     public float bulletForce = 1f;
@@ -17,10 +19,9 @@ public class Shooting : MonoBehaviour
     {
         //Getting the screensize
         screenBounds = Camera.main.ScreenToWorldPoint(new Vector3(Screen.width, Screen.height, Camera.main.transform.position.z));
-        bulletPrefab =
-            Resources.Load(
-                "G:\\DungeorusRepo\\computerspiel\\Software\\Dungerous_0.1\\Assets\\PowerBullet.prefab") as GameObject;
-        
+
+        //GameObject[] bullets = {bulletPrefab, powerBulletPrefab};
+
     }
 
     // Update is called once per frame
@@ -29,7 +30,14 @@ public class Shooting : MonoBehaviour
        
         if (Input.GetButtonDown("Fire2")) //"Fire1"
         {
-            Shoot();
+            if (powerItem == false)
+            {
+                Shoot();
+            }
+            else
+            {
+                PowerShoot();
+            }
         }
 
 
@@ -60,4 +68,19 @@ public class Shooting : MonoBehaviour
         rb.AddForce(firePoint.up * bulletForce, ForceMode2D.Impulse);
     }
 
+    void PowerShoot()
+    {
+        GameObject bullet = Instantiate(powerBulletPrefab, firePoint.position, firePoint.rotation);
+        Rigidbody2D rb = bullet.GetComponent<Rigidbody2D>();
+        rb.AddForce(firePoint.up * bulletForce, ForceMode2D.Impulse);
+    }
+
+    private void OnTriggerEnter2D(Collider2D collision)
+    {
+        if (collision.gameObject.tag.Equals("Buff1"))
+        {
+            powerItem = true;
+        }
+
+    }
 }

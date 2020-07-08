@@ -13,6 +13,8 @@ public class Enemy : MonoBehaviour
 
     public Rigidbody2D rb;
 
+    public Collider2D collision;
+
     public float moveSpeed = 1f;
     private Vector2 movement;
 

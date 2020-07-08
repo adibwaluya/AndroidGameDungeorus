@@ -18,7 +18,7 @@ public class WeaponPosition2 : MonoBehaviour
         childTransform = transform.Find("Weapon");
         Debug.Log(childTransform.position);
         Debug.Log(childTransform.localPosition);
-        childTransform.position = transform.position + new Vector3(-1.22f, -1.45f, 0);
+        childTransform.position = transform.position + new Vector3(-0.22f, -0.55f, 0);
     }
 
     // Update is called once per frame
@@ -33,6 +33,8 @@ public class WeaponPosition2 : MonoBehaviour
         posX = gameObject.transform.position.x - origPos.x;
         posY = gameObject.transform.position.y - origPos.y;
 
+
+        //Muss noch korrigiert werden, damit sich die Waffenposition ändert
         if (transform.position.y < origPos.y)
         {
             //Weapon position for down-movement
