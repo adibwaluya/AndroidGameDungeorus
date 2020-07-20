@@ -16,8 +16,33 @@ public class MainMenu : MonoBehaviour
 
      IEnumerator LoadScene()
      {
-         transitionAnime.SetTrigger("end");
-         yield return new WaitForSeconds(1.5f);
-         SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex + 1);
+         WaitForSecondsRT wait = new WaitForSecondsRT(1);
+         while (true)
+         {
+             transitionAnime.SetTrigger("end");
+             yield return wait.NewTime(1.5f);
+             SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex + 1);
+         }
+         //transitionAnime.SetTrigger("end");
+         //yield return new WaitForSecondsRealtime(1.5f);
+         //SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex + 1);
+     }
+}
+
+public class WaitForSecondsRT : CustomYieldInstruction
+{
+    float m_Time;
+    public override bool keepWaiting
+    {
+        get { return (m_Time -= Time.unscaledDeltaTime) > 0; }
+    }
+    public WaitForSecondsRT(float aWaitTime)
+    {
+        m_Time = aWaitTime;
+    }
+    public WaitForSecondsRT NewTime(float aTime)
+    {
+        m_Time = aTime;
+        return this;
      }
 }
