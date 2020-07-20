@@ -20,8 +20,6 @@ public class Shooting : MonoBehaviour
         //Getting the screensize
         screenBounds = Camera.main.ScreenToWorldPoint(new Vector3(Screen.width, Screen.height, Camera.main.transform.position.z));
 
-        //GameObject[] bullets = {bulletPrefab, powerBulletPrefab};
-
     }
 
     // Update is called once per frame
