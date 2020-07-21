@@ -19,6 +19,10 @@ public class PlayerMovement : MonoBehaviour
     public static float moveX;
     public static float moveY;
 
+    private float attackTime = 0.5f;
+    private float attackCounter = 0.5f;
+    private bool isAttacking;
+
     // Update is called once per frame
     void Update()
     {
@@ -62,6 +66,23 @@ public class PlayerMovement : MonoBehaviour
         animator.SetFloat("Horizontal", movement.x);
         animator.SetFloat("Vertical", movement.y);
         animator.SetFloat("Speed", movement.sqrMagnitude);
+
+        if(isAttacking)
+        {
+            movement = Vector2.zero;
+            attackCounter -= Time.deltaTime;
+            if(attackCounter <= 0)
+            {
+                animator.SetBool("isAttacking", false);
+                isAttacking = false;
+            }
+        }
+        if(Input.GetKeyDown(KeyCode.T))
+        {
+            attackCounter = attackTime;
+            animator.SetBool("isAttacking", true);
+            isAttacking = true;
+        }
     }
 
     void FixedUpdate()
