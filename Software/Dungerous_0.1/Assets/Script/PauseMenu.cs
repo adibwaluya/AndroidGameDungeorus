@@ -8,31 +8,37 @@ public class PauseMenu : MonoBehaviour
     public static bool GameIsPaused = false;
     public GameObject pauseMenuUi;
     public Animator transitionAnime;
+    public GameObject button;
 
     // TODO: Fix this function
     public void QuitGame()
     {
-        StartCoroutine(LoadScene());
+        if(Time.timeScale == 0f)
+        {
+            StartCoroutine(LoadScene());
+            Time.timeScale = 1f;
+        }
+        
+               
     }
 
     IEnumerator LoadScene()
     {
-        transitionAnime.SetTrigger("end");
-        yield return new WaitForSeconds(1.5f);
-        SceneManager.LoadScene("MainMenu");
+        WaitForSecondsRT anotherWait = new WaitForSecondsRT(1);
+        while (true)
+        {
+            transitionAnime.SetTrigger("end");
+            yield return anotherWait.NewTime(0.1f);
+            SceneManager.LoadScene("MainMenu");
+        }
+        
     }
 
-    void Update()
-    {
-        if (GameIsPaused)
-        {
-            resume();
-        }
-        else
-        {
-            pause();
-        }
-
+    //void Update()
+    //{
+        
+        
+              
         /*
         void pauseGame()
         {
@@ -47,19 +53,34 @@ public class PauseMenu : MonoBehaviour
         }
         */
         
-    }
+    //}
 
     public void resume()
     {
-        pauseMenuUi.SetActive(false);
+        //pauseMenuUi.SetActive(false);
         Time.timeScale = 1f;
         GameIsPaused = false;
     }
 
     public void pause()
     {
-        pauseMenuUi.SetActive(true);
+        //pauseMenuUi.SetActive(true);
         Time.timeScale = 0f;
         GameIsPaused = true;
     }
+
+    public void Continouity()
+    {
+        if (GameIsPaused)
+        {
+            Time.timeScale = 0f;
+        }
+        else
+        {
+            Time.timeScale = 1f;
+        }
+    }
+
 }
+
+
