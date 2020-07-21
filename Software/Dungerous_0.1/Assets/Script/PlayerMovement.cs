@@ -1,6 +1,7 @@
 ﻿using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using UnityStandardAssets.CrossPlatformInput;
 
 public class PlayerMovement : MonoBehaviour
 {
@@ -77,7 +78,7 @@ public class PlayerMovement : MonoBehaviour
                 isAttacking = false;
             }
         }
-        if(Input.GetKeyDown(KeyCode.T))
+        if(CrossPlatformInputManager.GetButtonDown("Punch"))
         {
             attackCounter = attackTime;
             animator.SetBool("isAttacking", true);
