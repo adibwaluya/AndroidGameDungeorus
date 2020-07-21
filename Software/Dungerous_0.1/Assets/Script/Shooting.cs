@@ -1,6 +1,7 @@
 ﻿using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using UnityStandardAssets.CrossPlatformInput;
 
 public class Shooting : MonoBehaviour
 {
@@ -26,7 +27,7 @@ public class Shooting : MonoBehaviour
     void Update()
     {
        
-        if (Input.GetButtonDown("Fire2")) //"Fire1"
+        if (CrossPlatformInputManager.GetButtonDown("Shoot")) //"Fire1"
         {
             if (powerItem == false)
             {
