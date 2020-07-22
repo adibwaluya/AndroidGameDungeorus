@@ -63,5 +63,6 @@ public class Enemy : MonoBehaviour
         GameObject effect = Instantiate(DeathEffect, transform.position, Quaternion.identity);
         Destroy(gameObject);
         Destroy(effect, 0.4f);
+        ScoreScript.scoreValue += 10;
     }
 }

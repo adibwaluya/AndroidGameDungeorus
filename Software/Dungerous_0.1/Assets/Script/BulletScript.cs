@@ -25,7 +25,7 @@ public class BulletScript : MonoBehaviour
                 enemy.TakeDamage(damage);
             }
 
-            Destroy(gameObject);
+        Destroy(gameObject);
         
     }
 
