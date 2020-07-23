@@ -26,7 +26,8 @@ public class BulletScript : MonoBehaviour
             }
 
         Destroy(gameObject);
-        
+        ScoreScript.scoreValue += 10;
+
     }
 
 }
