@@ -53,6 +53,7 @@ public class Enemy : MonoBehaviour
         health -= damage;
         if (health <= 0)
         {
+            ScoreScript.scoreValue += 10;
             Die();
         }
     }
@@ -63,6 +64,5 @@ public class Enemy : MonoBehaviour
         GameObject effect = Instantiate(DeathEffect, transform.position, Quaternion.identity);
         Destroy(gameObject);
         Destroy(effect, 0.4f);
-        ScoreScript.scoreValue += 10;
     }
 }

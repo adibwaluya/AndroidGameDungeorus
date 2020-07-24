@@ -2029,7 +2029,7 @@ GameObject:
   - component: {fileID: 67478989}
   - component: {fileID: 67478988}
   m_Layer: 5
-  m_Name: Text
+  m_Name: ScoreValue
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -2079,7 +2079,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   m_Material: {fileID: 0}
-  m_Color: {r: 0.21226418, g: 0.2953284, b: 1, a: 1}
+  m_Color: {r: 0.22064336, g: 1, b: 0.2117647, a: 1}
   m_RaycastTarget: 1
   m_Maskable: 1
   m_OnCullStateChanged:
