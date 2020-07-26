@@ -44,11 +44,22 @@ public class Player : MonoBehaviour
         healthBar.SetHealth(currentHealth);
     }
 
+    void Healing(int damage)
+    {
+        currentHealth += damage;
+        healthBar.SetHealth(currentHealth);
+    }
+
     private void OnTriggerEnter2D(Collider2D collision)
     {
         if (collision.gameObject.tag.Equals("Enemy"))
         {
             TakeDamage(10);
+        }
+
+        if (collision.gameObject.tag.Equals("Heal"))
+        {
+            Healing(30);
         }
 
     }
@@ -58,6 +69,11 @@ public class Player : MonoBehaviour
         if (collision.gameObject.tag.Equals("Enemy"))
         {
             TakeDamage(10);
+        }
+
+        if (collision.gameObject.tag.Equals("Heal"))
+        {
+            Healing(30);
         }
     }
 }
