@@ -15,17 +15,32 @@ public class HighScoreTable : MonoBehaviour
         entryTemplate = entryContainer.Find("HighScoreEntryTemplate");
 
         entryTemplate.gameObject.SetActive(false);
-
-        //AddHighScoreEntry(123456, "Numb");
-
+        
         // PlayingPrefs: simplest way of saving and loading persistent data
         // SetString allows to store a string which contains all of the highscores
         // To store the string, JSON data format will be
         string jsonString = PlayerPrefs.GetString("HighScoreBoard");
         HighScores highscores = JsonUtility.FromJson<HighScores>(jsonString);
 
+        if(highscores == null)
+        {
+            AddHighScoreEntry(100000, "Mike");
+            AddHighScoreEntry(12343, "Waluthon");
+            AddHighScoreEntry(46654, "John");
+            AddHighScoreEntry(89876, "Max");
+            AddHighScoreEntry(65433, "Carl");
+            AddHighScoreEntry(78996, "May");
+            AddHighScoreEntry(23567, "Joe");
+            AddHighScoreEntry(98422, "Nathan");
+
+            // Reload
+            jsonString = PlayerPrefs.GetString("HighScoreBoard");
+            highscores = JsonUtility.FromJson<HighScores>(jsonString);
+        }
+
         // Sort entry list by Score
-        for(int i = 0; i < highscores.highScoreEntryList.Count; i++)
+
+        for (int i = 0; i < highscores.highScoreEntryList.Count; i++)
         {
             for(int j = i + 1; j < highscores.highScoreEntryList.Count; j++)
             {
@@ -97,6 +112,13 @@ public class HighScoreTable : MonoBehaviour
         string jsonString = PlayerPrefs.GetString("HighScoreBoard");
         HighScores highscores = JsonUtility.FromJson<HighScores>(jsonString);
 
+        if(highscores == null)
+        {
+            highscores = new HighScores()
+            {
+                highScoreEntryList = new List<HighScoreEntry>()
+            };
+        }
         // Add new entry to Highscores
         highscores.highScoreEntryList.Add(highscoreEntry);
 
@@ -105,6 +127,23 @@ public class HighScoreTable : MonoBehaviour
         PlayerPrefs.SetString("HighScoreBoard", json);
         PlayerPrefs.Save();
     }
+
+    private void clearScoreTable()
+    {
+        // Load saved scores
+        string jsonString = PlayerPrefs.GetString("HighScoreBoard");
+        HighScores highscores = JsonUtility.FromJson<HighScores>(jsonString);
+
+        // Clear score table
+        highscores.highScoreEntryList.Clear();
+
+        // Save updated scores
+        string json = JsonUtility.ToJson(highscores);
+        PlayerPrefs.SetString("HighScoreBoard", json);
+        PlayerPrefs.Save();
+        
+    }
+
     /*
      * Contains HighScoreEntryList
      */
