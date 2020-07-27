@@ -24,6 +24,7 @@ public class HighScoreTable : MonoBehaviour
 
         if(highscores == null)
         {
+            /*
             AddHighScoreEntry(100000, "Mike");
             AddHighScoreEntry(12343, "Waluthon");
             AddHighScoreEntry(46654, "John");
@@ -32,7 +33,7 @@ public class HighScoreTable : MonoBehaviour
             AddHighScoreEntry(78996, "May");
             AddHighScoreEntry(23567, "Joe");
             AddHighScoreEntry(98422, "Nathan");
-
+            */
             // Reload
             jsonString = PlayerPrefs.GetString("HighScoreBoard");
             highscores = JsonUtility.FromJson<HighScores>(jsonString);
@@ -103,7 +104,7 @@ public class HighScoreTable : MonoBehaviour
         transformList.Add(entryTransform);
     }
 
-    private void AddHighScoreEntry(int score, string name)
+    public void AddHighScoreEntry(int score, string name)
     {
         // Create HighscoreEntry
         HighScoreEntry highscoreEntry = new HighScoreEntry { score = score, name = name };

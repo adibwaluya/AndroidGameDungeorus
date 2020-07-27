@@ -5296,7 +5296,7 @@ GameObject:
   - component: {fileID: 189423982}
   - component: {fileID: 189423981}
   m_Layer: 5
-  m_Name: InputField (TMP)
+  m_Name: inputField
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -5315,7 +5315,7 @@ RectTransform:
   m_Children:
   - {fileID: 1682173110}
   m_Father: {fileID: 2055210997}
-  m_RootOrder: 0
+  m_RootOrder: 1
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
@@ -19841,7 +19841,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: c6820976654c74c59973e5babb3122bd, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  inputWindow: {fileID: 2055210998}
+  highScoreTable: {fileID: 0}
 --- !u!1001 &719137066
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -59957,7 +59957,7 @@ RectTransform:
   m_Children:
   - {fileID: 1516406289}
   m_Father: {fileID: 2055210997}
-  m_RootOrder: 1
+  m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
@@ -64587,8 +64587,8 @@ RectTransform:
   m_LocalPosition: {x: 0, y: 0, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children:
-  - {fileID: 189423980}
   - {fileID: 1858019607}
+  - {fileID: 189423980}
   m_Father: {fileID: 1271259172}
   m_RootOrder: 1
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}

@@ -6,14 +6,18 @@ using CodeMonkey;
 
 public class UITest : MonoBehaviour
 {
-    [SerializeField] private ScoreInputWindow inputWindow;
+    [SerializeField] private HighScoreTable highScoreTable;
     // Start is called before the first frame update
     private void Start()
     {
         transform.Find("SubmitButton").GetComponent<Button_UI>().ClickFunc = () =>
         {
-            inputWindow.Show("Qwerty", (string inputText) => {
-                CMDebug.TextPopupMouse("Ok: " + inputText);
+            ScoreInputWindow.Show_Static (0, (int score) => {
+
+                ScoreInputWindow.Show_Static("", "ABCDEFGHIJKLMNOPQRSTUVWXYZ", 3, (string nameText) =>
+                {
+                    highScoreTable.AddHighScoreEntry(score, nameText);
+                });
             });
         };
     }
