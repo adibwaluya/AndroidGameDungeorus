@@ -53,7 +53,7 @@ public class Enemy : MonoBehaviour
         health -= damage;
         if (health <= 0)
         {
-            ScoreScript.scoreValue += 10;
+            ScoreScript.scoreValue += 870;
             Die();
         }
     }

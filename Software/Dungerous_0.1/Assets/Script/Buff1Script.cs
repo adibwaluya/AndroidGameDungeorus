@@ -20,6 +20,7 @@ public class Buff1Script : MonoBehaviour
     {
         if(collision.gameObject.tag.Equals("Character"))
         {
+            ScoreScript.scoreValue += 230;
             Destroy(item);
         }
 
