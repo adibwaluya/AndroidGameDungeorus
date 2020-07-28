@@ -21,7 +21,7 @@ public class HighScoreTable : MonoBehaviour
         // To store the string, JSON data format will be
         string jsonString = PlayerPrefs.GetString("HighScoreBoard");
         HighScores highscores = JsonUtility.FromJson<HighScores>(jsonString);
-        
+        //clearScoreTable();
         if (highscores == null)
         {
             /*
@@ -69,7 +69,7 @@ public class HighScoreTable : MonoBehaviour
     private void CreateHighScoreEntryTransform(HighScoreEntry highScoreEntry, Transform container, List<Transform> transformList)
     {
 
-        float templateHigh = 30f;
+        float templateHigh = 40f;
         Transform entryTransform = Instantiate(entryTemplate, container);
         RectTransform entryRectTransform = entryTransform.GetComponent<RectTransform>();
         entryRectTransform.anchoredPosition = new Vector2(0, -templateHigh * transformList.Count);

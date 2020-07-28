@@ -100,6 +100,7 @@ public class ScoreInputWindow : MonoBehaviour
                 onOk(score);
                 //instance.QuitGame();
             }
+            //ScoreScript.scoreValue = 0;
         }
         else
         {
@@ -120,6 +121,7 @@ public class ScoreInputWindow : MonoBehaviour
                 }
             });
             */
+        ScoreScript.scoreValue = 0;
     }
 
     public void QuitGame()
