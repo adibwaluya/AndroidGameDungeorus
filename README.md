@@ -27,5 +27,6 @@ Im `../Software/` gibt es nicht nur die Unity Project Datei, sondern auch die .A
 die in jedem Sprint aktualisiert wird.
 
 ## Wie installiere ich das tolle Spiel?
-Ganz einfach wie normale Android Packet (APK)! Was wartest du denn? Lade mal das
- Spiel herunter und habe Spaß beim Lernen! Whoops, wir meinen wohl beim Spielen!
+Ganz einfach wie normale Android Application Package (APK)! Was wartest du denn?
+Lade mal das Spiel herunter und habe Spaß beim Lernen! Whoops, wir meinen wohl 
+beim Spielen!
