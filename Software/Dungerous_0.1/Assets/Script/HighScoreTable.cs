@@ -21,8 +21,8 @@ public class HighScoreTable : MonoBehaviour
         // To store the string, JSON data format will be
         string jsonString = PlayerPrefs.GetString("HighScoreBoard");
         HighScores highscores = JsonUtility.FromJson<HighScores>(jsonString);
-
-        if(highscores == null)
+        
+        if (highscores == null)
         {
             /*
             AddHighScoreEntry(100000, "Mike");
@@ -34,9 +34,11 @@ public class HighScoreTable : MonoBehaviour
             AddHighScoreEntry(23567, "Joe");
             AddHighScoreEntry(98422, "Nathan");
             */
+            //clearScoreTable();
             // Reload
             jsonString = PlayerPrefs.GetString("HighScoreBoard");
             highscores = JsonUtility.FromJson<HighScores>(jsonString);
+            //clearScoreTable();
         }
 
         // Sort entry list by Score

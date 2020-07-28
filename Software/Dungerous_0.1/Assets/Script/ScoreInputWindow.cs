@@ -4,26 +4,30 @@ using System.Collections.Generic;
 using UnityEngine;
 using CodeMonkey.Utils;
 using TMPro;
+using UnityEngine.SceneManagement;
 
 public class ScoreInputWindow : MonoBehaviour
 {
     private static ScoreInputWindow instance;
 
+    public Animator transitionAnime;
     private Button_UI okBtn;
+    private Button_UI quitBtn;
     private TMP_InputField inputField;
 
     public void Awake()
     {
         instance = this; 
-        Hide();
+        
         okBtn = transform.Find("OkButton").GetComponent<Button_UI>();
         inputField = transform.Find("inputField").GetComponent<TMP_InputField>();
-        
-        
+
+        Hide();
     }
 
     private void Update()
     {
+        // TODO: Change this with CrossPlatformManager
         if(Input.GetKeyDown(KeyCode.Return) || Input.GetKeyDown(KeyCode.KeypadEnter))
         {
             okBtn.ClickFunc();
@@ -46,9 +50,15 @@ public class ScoreInputWindow : MonoBehaviour
 
         okBtn.ClickFunc = () =>
         {
-            Hide();
+            //Hide();
             onOk(inputField.text);
+            //QuitGame();
         }; 
+    }
+
+    private void ShowButton()
+    {
+        gameObject.SetActive(true);
     }
 
     // Hide Window
@@ -75,13 +85,31 @@ public class ScoreInputWindow : MonoBehaviour
     public static void Show_Static(string inputString, string validCharacters, int characterLimit, Action<string> onOk)
     {
         instance.Show(inputString, validCharacters, characterLimit, onOk);
+        //instance.QuitGame();
     }
 
     public static void Show_Static(int defaultInt, Action<int> onOk)
     {
+        int score = 0;
+        if(score != ScoreScript.scoreValue)
+        {
+            score = ScoreScript.scoreValue;
+            //onOk(score);
+            if(score == ScoreScript.scoreValue)
+            {
+                onOk(score);
+                //instance.QuitGame();
+            }
+        }
+        else
+        {
+            onOk(defaultInt);
+        }
+        /*
         instance.Show(defaultInt.ToString(), "0123456789-", 20,
             (string inputText) =>
             {
+                //inputText = ScoreScript.scoreValue.ToString();
                 if (int.TryParse(inputText, out int _i))
                 {
                     onOk(_i);
@@ -91,5 +119,25 @@ public class ScoreInputWindow : MonoBehaviour
                     onOk(defaultInt);
                 }
             });
+            */
     }
+
+    public void QuitGame()
+    {
+        StartCoroutine(LoadScene());
+
+    }
+
+    IEnumerator LoadScene()
+    {
+        WaitForSecondsRT anotherWait = new WaitForSecondsRT(1);
+        while (true)
+        {
+            transitionAnime.SetTrigger("end");
+            yield return anotherWait.NewTime(0.1f);
+            SceneManager.LoadScene("MainMenu");
+        }
+
+    }
+
 }

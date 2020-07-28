@@ -10,7 +10,6 @@ public class PauseMenu : MonoBehaviour
     public Animator transitionAnime;
     public GameObject button;
 
-    // TODO: Fix this function
     public void QuitGame()
     {
         if(Time.timeScale == 0f)
