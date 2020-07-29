@@ -22,7 +22,6 @@ public class Player : MonoBehaviour
         healthBar.SetMaxHealth(maxHealth);
     }
 
-    // Update is called once per frame
     void FixedUpdate()
     {
         if (Input.GetKeyDown(KeyCode.Space))
@@ -37,6 +36,7 @@ public class Player : MonoBehaviour
         if (currentHealth <= 0)
         {
             Destroy(gameObject);
+            //currentHealth = maxHealth;
             gameOverMenu.SetActive(true);
         }
     }
@@ -71,12 +71,12 @@ public class Player : MonoBehaviour
 
     void OnCollisionEnter2D(Collider2D collision)
     {
-        /*
+        
         if (collision.gameObject.tag.Equals("Enemy"))
         {
-            TakeDamage(80);
+            TakeDamage(5);
         }
-        */
+        
 
         if (collision.gameObject.tag.Equals("Heal"))
         {

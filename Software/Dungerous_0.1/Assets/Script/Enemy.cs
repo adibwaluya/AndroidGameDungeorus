@@ -2,6 +2,7 @@
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using UnityStandardAssets.CrossPlatformInput;
 
 public class Enemy : MonoBehaviour
 {
@@ -32,7 +33,7 @@ public class Enemy : MonoBehaviour
 
     void FixedUpdate()
     {
-       
+        OnTriggerEnter2D(collision);
     }
 
 
@@ -55,8 +56,20 @@ public class Enemy : MonoBehaviour
         Destroy(effect, 0.4f);
     }
 
-    void MeleeDamage(int damage)
+    
+    private void OnTriggerEnter2D(Collider2D collision)
     {
 
+        if (collision.gameObject.tag.Equals("Player"))
+        {
+            if (CrossPlatformInputManager.GetButtonDown("Punch"))
+            {
+                TakeDamage(40);
+            }
+            
+        }
+
     }
+    
+
 }
