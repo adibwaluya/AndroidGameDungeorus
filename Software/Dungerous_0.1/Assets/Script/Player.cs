@@ -30,7 +30,9 @@ public class Player : MonoBehaviour
         }
 
         OnTriggerEnter2D(collision);
-        OnCollisionEnter(collision);
+
+        OnCollisionEnter2D(collision);
+
         if (currentHealth <= 0)
         {
             Destroy(gameObject);
@@ -38,7 +40,7 @@ public class Player : MonoBehaviour
         }
     }
 
-    void TakeDamage(int damage)
+    public void TakeDamage(int damage)
     {
         currentHealth -= damage;
         healthBar.SetHealth(currentHealth);
@@ -66,7 +68,7 @@ public class Player : MonoBehaviour
 
     }
 
-    void OnCollisionEnter(Collider2D collider)
+    void OnCollisionEnter2D(Collider2D collision)
     {
         if (collision.gameObject.tag.Equals("Enemy"))
         {

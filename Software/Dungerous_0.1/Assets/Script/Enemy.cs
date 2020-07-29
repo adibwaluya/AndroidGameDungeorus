@@ -28,18 +28,12 @@ public class Enemy : MonoBehaviour
     void Update()
     {
 
-        //Getting the direction to the player
-        //Vector3 direction = Player.position - transform.position;
-        //float angle = Mathf.Atan2(direction.y, direction.x) * Mathf.Rad2Deg;
-        //rb.rotation = angle - 90f;
-        //direction.Normalize();
-        //movement = direction;
     }
 
 
-    private void FixedUpdate()
+    void FixedUpdate()
     {
-        //moveEnemy(movement);
+       
     }
 
     void moveEnemy(Vector2 direction)
@@ -64,5 +58,10 @@ public class Enemy : MonoBehaviour
         GameObject effect = Instantiate(DeathEffect, transform.position, Quaternion.identity);
         Destroy(gameObject);
         Destroy(effect, 0.4f);
+    }
+
+    void MeleeDamage(int damage)
+    {
+
     }
 }

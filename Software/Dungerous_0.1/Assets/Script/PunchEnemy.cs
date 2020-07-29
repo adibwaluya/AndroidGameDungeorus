@@ -19,7 +19,7 @@ public class PunchEnemy : MonoBehaviour
 
     private void OnTriggerEnter2D(Collider2D other)
     {
-        if(other.gameObject.tag.Equals("Enemy"))
+        if (other.gameObject.tag.Equals("Enemy"))
         {
             Enemy enemyHealth;
             enemyHealth = other.gameObject.GetComponent<Enemy>();
