@@ -9,7 +9,7 @@ public class Enemy : MonoBehaviour
 
     public GameObject DeathEffect;
 
-    public Transform Player;
+    //public Transform Player;
 
     public Rigidbody2D rb;
 
@@ -22,24 +22,24 @@ public class Enemy : MonoBehaviour
     void Start()
     {
         
-        Player = GameObject.FindWithTag("Character").transform;
+        //Player = GameObject.FindWithTag("Character").transform;
     }
 
     void Update()
     {
 
         //Getting the direction to the player
-        Vector3 direction = Player.position - transform.position;
-        float angle = Mathf.Atan2(direction.y, direction.x) * Mathf.Rad2Deg;
-        rb.rotation = angle - 90f;
-        direction.Normalize();
-        movement = direction;
+        //Vector3 direction = Player.position - transform.position;
+        //float angle = Mathf.Atan2(direction.y, direction.x) * Mathf.Rad2Deg;
+        //rb.rotation = angle - 90f;
+        //direction.Normalize();
+        //movement = direction;
     }
 
 
     private void FixedUpdate()
     {
-        moveEnemy(movement);
+        //moveEnemy(movement);
     }
 
     void moveEnemy(Vector2 direction)
