@@ -80,4 +80,6 @@ public class Player : MonoBehaviour
             Healing(30);
         }
     }
+
+
 }
