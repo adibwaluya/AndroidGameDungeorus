@@ -15,7 +15,6 @@ public class Enemy : MonoBehaviour
 
     public Collider2D collision;
 
-    public float moveSpeed = 1f;
     private Vector2 movement;
 
     // Start is called before the first frame update
@@ -36,10 +35,6 @@ public class Enemy : MonoBehaviour
        
     }
 
-    void moveEnemy(Vector2 direction)
-    {
-        rb.MovePosition((Vector2)transform.position + (direction * moveSpeed * Time.deltaTime));
-    }
 
     //Calculates enemy damage taken
     public void TakeDamage(int damage)
