@@ -64500,8 +64500,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   maxHealth: 100
   currentHealth: 0
-  healthBar: {fileID: 1965472747880676646, guid: 15692aa75624fe74b8f0e81f88e76a71,
-    type: 3}
+  healthBar: {fileID: 1016844527}
   collision: {fileID: 1601260363}
   gameOverMenu: {fileID: 0}
 --- !u!114 &1601260371
