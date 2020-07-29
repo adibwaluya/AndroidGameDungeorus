@@ -66549,7 +66549,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 38c6de6e7577141fc8dd5056e77678c5, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  dmgToGive: 45
+  dmgToGive: 20
 --- !u!1001 &1603325771
 PrefabInstance:
   m_ObjectHideFlags: 0
