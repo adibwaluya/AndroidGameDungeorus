@@ -4,7 +4,7 @@ using UnityEngine;
 
 public class PunchEnemy : MonoBehaviour
 {
-    public int dmgToGive = 50;
+    public int dmgToGive;
     // Start is called before the first frame update
     void Start()
     {

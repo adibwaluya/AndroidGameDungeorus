@@ -34791,6 +34791,16 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 560523427362079678, guid: b06f5805a6e171a488973c8ea8d263a7,
+        type: 3}
+      propertyPath: Player
+      value: 
+      objectReference: {fileID: 1341666920}
+    - target: {fileID: 560523427362079678, guid: b06f5805a6e171a488973c8ea8d263a7,
+        type: 3}
+      propertyPath: collision
+      value: 
+      objectReference: {fileID: 1568095584}
     - target: {fileID: 560523427362079679, guid: b06f5805a6e171a488973c8ea8d263a7,
         type: 3}
       propertyPath: m_Name
@@ -44713,6 +44723,7 @@ GameObject:
   - component: {fileID: 1341666925}
   - component: {fileID: 1341666926}
   - component: {fileID: 1341666927}
+  - component: {fileID: 1341666928}
   m_Layer: 0
   m_Name: Dummy
   m_TagString: Character
@@ -44908,6 +44919,19 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 874d9e3fc62e41549b193adc54ae9b93, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+--- !u!114 &1341666928
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1341666918}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 38c6de6e7577141fc8dd5056e77678c5, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  dmgToGive: 45
 --- !u!4 &1349287803 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 7577934763297835895, guid: 5b71abb548a7a438aa5859681983cf1a,
@@ -52232,6 +52256,12 @@ PrefabInstance:
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: a748f1b43386146d4af84a34c936561e, type: 3}
+--- !u!61 &1568095584 stripped
+BoxCollider2D:
+  m_CorrespondingSourceObject: {fileID: 560523427362079675, guid: b06f5805a6e171a488973c8ea8d263a7,
+    type: 3}
+  m_PrefabInstance: {fileID: 952657152}
+  m_PrefabAsset: {fileID: 0}
 --- !u!1001 &1568993571
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -60397,6 +60427,11 @@ PrefabInstance:
       propertyPath: collision
       value: 
       objectReference: {fileID: 940388558}
+    - target: {fileID: 560523427362079678, guid: b06f5805a6e171a488973c8ea8d263a7,
+        type: 3}
+      propertyPath: Player
+      value: 
+      objectReference: {fileID: 1341666920}
     - target: {fileID: 560523427362079679, guid: b06f5805a6e171a488973c8ea8d263a7,
         type: 3}
       propertyPath: m_Name
