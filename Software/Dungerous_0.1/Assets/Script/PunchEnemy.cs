@@ -1,6 +1,7 @@
 ﻿using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using UnityStandardAssets.CrossPlatformInput;
 
 public class PunchEnemy : MonoBehaviour
 {
@@ -15,15 +16,21 @@ public class PunchEnemy : MonoBehaviour
     void Update()
     {
         
+        
     }
 
     private void OnTriggerEnter2D(Collider2D other)
     {
-        if (other.gameObject.tag.Equals("Enemy"))
+        if (CrossPlatformInputManager.GetButtonDown("Punch"))
         {
-            Enemy enemyHealth;
-            enemyHealth = other.gameObject.GetComponent<Enemy>();
-            enemyHealth.TakeDamage(dmgToGive);
+            if (other.gameObject.tag.Equals("Enemy"))
+            {
+                Enemy enemyHealth;
+                enemyHealth = other.gameObject.GetComponent<Enemy>();
+                enemyHealth.TakeDamage(dmgToGive);
+            }
         }
+            
+          
     }
 }

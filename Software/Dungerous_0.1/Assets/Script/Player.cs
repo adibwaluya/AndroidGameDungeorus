@@ -70,10 +70,12 @@ public class Player : MonoBehaviour
 
     void OnCollisionEnter2D(Collider2D collision)
     {
+        /*
         if (collision.gameObject.tag.Equals("Enemy"))
         {
             TakeDamage(10);
         }
+        */
 
         if (collision.gameObject.tag.Equals("Heal"))
         {

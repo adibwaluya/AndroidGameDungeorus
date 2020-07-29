@@ -39,6 +39,7 @@ public class Shooting : MonoBehaviour
             }
         }
 
+        /*
         if (Input.GetButtonDown("Fire2"))
         {
             if (powerItem == false)
@@ -50,6 +51,7 @@ public class Shooting : MonoBehaviour
                 PowerShoot();
             }
         }
+        */
 
     }
 
