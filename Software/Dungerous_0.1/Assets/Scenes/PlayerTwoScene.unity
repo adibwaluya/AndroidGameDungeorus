@@ -64307,6 +64307,7 @@ GameObject:
   - component: {fileID: 1601260368}
   - component: {fileID: 1601260370}
   - component: {fileID: 1601260369}
+  - component: {fileID: 1601260371}
   m_Layer: 0
   m_Name: Nurse
   m_TagString: Character
@@ -64503,6 +64504,19 @@ MonoBehaviour:
     type: 3}
   collision: {fileID: 1601260363}
   gameOverMenu: {fileID: 0}
+--- !u!114 &1601260371
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1601260361}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 38c6de6e7577141fc8dd5056e77678c5, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  dmgToGive: 45
 --- !u!1001 &1603325771
 PrefabInstance:
   m_ObjectHideFlags: 0
