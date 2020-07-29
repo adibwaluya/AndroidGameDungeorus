@@ -14,6 +14,7 @@ public class Player : MonoBehaviour
 
     public GameObject gameOverMenu;
 
+
     // Start is called before the first frame update
     void Start()
     {
@@ -73,7 +74,7 @@ public class Player : MonoBehaviour
         /*
         if (collision.gameObject.tag.Equals("Enemy"))
         {
-            TakeDamage(10);
+            TakeDamage(80);
         }
         */
 
@@ -82,6 +83,5 @@ public class Player : MonoBehaviour
             Healing(30);
         }
     }
-
 
 }
