@@ -39,6 +39,19 @@ public class Shooting : MonoBehaviour
             }
         }
 
+        /*
+        if (Input.GetButtonDown("Fire2"))
+        {
+            if (powerItem == false)
+            {
+                Shoot();
+            }
+            else
+            {
+                PowerShoot();
+            }
+        }
+        */
 
     }
 

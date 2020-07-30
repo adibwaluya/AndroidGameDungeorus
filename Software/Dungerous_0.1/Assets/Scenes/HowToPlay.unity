@@ -1455,7 +1455,7 @@ MonoBehaviour:
 
 
     VIRUS
-    IN 60 MINUTES!
+    IN 60 SECONDS!
 
 '
 --- !u!222 &724234805
@@ -1535,7 +1535,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 1
     m_VerticalOverflow: 1
     m_LineSpacing: 1
-  m_Text: 'COLLECT BULLETS TO UPGRADE
+  m_Text: 'COLLECT VITAMINS TO UPGRADE
 
     YOUR ABILITY'
 --- !u!222 &780894587

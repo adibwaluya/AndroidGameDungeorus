@@ -2,6 +2,7 @@
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using UnityStandardAssets.CrossPlatformInput;
 
 public class Enemy : MonoBehaviour
 {
@@ -15,7 +16,6 @@ public class Enemy : MonoBehaviour
 
     public Collider2D collision;
 
-    public float moveSpeed = 1f;
     private Vector2 movement;
 
     // Start is called before the first frame update
@@ -28,24 +28,27 @@ public class Enemy : MonoBehaviour
     void Update()
     {
 
+<<<<<<< HEAD
         //Getting the direction to the player
         //Vector3 direction = Player.position - transform.position;
         //float angle = Mathf.Atan2(direction.y, direction.x) * Mathf.Rad2Deg;
         //rb.rotation = angle - 90f;
         //direction.Normalize();
         //movement = direction;
+=======
+>>>>>>> 508b8e9bc81f40f8fc499de772433477a3f18b95
     }
 
 
-    private void FixedUpdate()
+    void FixedUpdate()
     {
+<<<<<<< HEAD
         //moveEnemy(movement);
+=======
+        OnTriggerEnter2D(collision);
+>>>>>>> 508b8e9bc81f40f8fc499de772433477a3f18b95
     }
 
-    void moveEnemy(Vector2 direction)
-    {
-        rb.MovePosition((Vector2)transform.position + (direction * moveSpeed * Time.deltaTime));
-    }
 
     //Calculates enemy damage taken
     public void TakeDamage(int damage)
@@ -65,4 +68,21 @@ public class Enemy : MonoBehaviour
         Destroy(gameObject);
         Destroy(effect, 0.4f);
     }
+
+    
+    private void OnTriggerEnter2D(Collider2D collision)
+    {
+
+        if (collision.gameObject.tag.Equals("Player"))
+        {
+            if (CrossPlatformInputManager.GetButtonDown("Punch"))
+            {
+                TakeDamage(40);
+            }
+            
+        }
+
+    }
+    
+
 }
